@@ -1,0 +1,2661 @@
+periode_data,type_operasi,area_operasi,jumlah_bus,jumlah_penumpang
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202101,Puskesmas Tebet,RS Wisma Atlet,1,24
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,14
+202101,Puskesmas Tanjung Priok,RS Wisma Atlet,1,10
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,9
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,5
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,10
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,22
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,14
+202101,Puskesmas Jagakarsa Tahap II,RS Wisma Atlet,1,10
+202101,Puskesmas Tebet,RS Wisma Atlet,1,14
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,9
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap III,RS Wisma Atlet,1,9
+202101,Puskesmas Duren Sawit Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,5
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,8
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,22
+202101,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202101,Puskesmas Tebet,RS Wisma Atlet,1,19
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,10
+202101,Puskesmas Tanjung Priok,RS Wisma Atlet,1,28
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,5
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,5
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,13
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,19
+202101,Puskesmas Cilandak,RS Wisma Atlet,1,11
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202101,Puskesmas Penjaringan,RS Wisma Atlet,1,14
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,11
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,21
+202101,Puskesmas Tanah Abang,RS Wisma Atlet,1,27
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202101,Puskesmas Tebet,RS Wisma Atlet,1,20
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,12
+202101,Puskesmas Sawah Besar,RS Wisma Atlet,1,8
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,6
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,8
+202101,Puskesmas Penjaringan,RS Wisma Atlet,1,8
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,15
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,14
+202101,RSUD CENGKARENG,JAKARTA,125,5203
+202101,RSUD CENGKARENG,BOGOR,null,null
+202101,RSUD CENGKARENG,DEPOK,30,692
+202101,RSUD CENGKARENG,TANGERANG,70,1232
+202101,RSUD CENGKARENG,BEKASI,24,233
+202101,RSUD DUREN SAWIT,JAKARTA,95,4887
+202101,RSUD DUREN SAWIT,BOGOR,null,null
+202101,RSUD DUREN SAWIT,DEPOK,null,null
+202101,RSUD DUREN SAWIT,TANGERANG,null,null
+202101,RSUD DUREN SAWIT,BEKASI,null,null
+202101,RSUD PASAR MINGGU,JAKARTA,null,null
+202101,RSUD PASAR MINGGU,BOGOR,12,104
+202101,RSUD PASAR MINGGU,DEPOK,21,278
+202101,RSUD PASAR MINGGU,TANGERANG,null,null
+202101,RSUD PASAR MINGGU,BEKASI,18,191
+202101,RSUD TARAKAN,JAKARTA,null,null
+202101,RSUD TARAKAN,BOGOR,31,1593
+202101,RSUD TARAKAN,DEPOK,31,1272
+202101,RSUD TARAKAN,TANGERANG,58,3162
+202101,RSUD TARAKAN,BEKASI,58,1757
+202101,RSUD PASAR REBO,JAKARTA,null,null
+202101,RSUD PASAR REBO,BOGOR,27,694
+202101,RSUD PASAR REBO,DEPOK,20,288
+202101,RSUD PASAR REBO,TANGERANG,29,250
+202101,RSUD PASAR REBO,BEKASI,31,425
+202101,RSUD KOJA,JAKARTA,103,3912
+202101,RSUD KOJA,BOGOR,null,null
+202101,RSUD KOJA,DEPOK,null,null
+202101,RSUD KOJA,TANGERANG,null,null
+202101,RSUD KOJA,BEKASI,100,2192
+202101,RS PONDOK INDAH,JAKARTA,31,1419
+202101,RS PONDOK INDAH,BOGOR,31,1870
+202101,RS PONDOK INDAH,DEPOK,null,null
+202101,RS PONDOK INDAH,TANGERANG,12,117
+202101,RS PONDOK INDAH,BEKASI,null,null
+202101,RSUD BUDHI ASIH,JAKARTA,null,null
+202101,RSUD BUDHI ASIH,BOGOR,62,901
+202101,RSUD BUDHI ASIH,DEPOK,null,null
+202101,RSUD BUDHI ASIH,TANGERANG,null,null
+202101,RSUD BUDHI ASIH,BEKASI,23,234
+202101,R S C M,JAKARTA,62,5388
+202101,R S C M,BOGOR,92,3617
+202101,R S C M,DEPOK,62,3627
+202101,R S C M,TANGERANG,74,2104
+202101,R S C M,BEKASI,92,6566
+202101,P M I,JAKARTA,24,197
+202101,P M I,BOGOR,null,null
+202101,P M I,DEPOK,26,648
+202101,P M I,TANGERANG,null,null
+202101,P M I,BEKASI,47,812
+202101,RSUD JATI PADANG,JAKARTA,68,664
+202101,PUSKESMAS MAMPANG PRAPATAN,JAKARTA,null,null
+202101,PUSKESMAS PANCORAN,JAKARTA,null,null
+202101,PUSKESMAS CILANDAK,JAKARTA,null,null
+202101,PUSKESMAS TEBET,JAKARTA,null,null
+202101,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202101,PUSKESMAS KEBAYORAN BARU,JAKARTA,null,null
+202101,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202101,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202101,RSUP PERSAHABATAN,JAKARTA,20,402
+202101,RSUP PERSAHABATAN,BOGOR,39,620
+202101,RSUP PERSAHABATAN,DEPOK,20,331
+202101,RSUP PERSAHABATAN,TANGERANG,null,null
+202101,RSUP PERSAHABATAN,BEKASI,49,1562
+202101,RS JANTUNG HARAPAN KITA,BOGOR,28,526
+202101,RS JANTUNG HARAPAN KITA,TANGERANG,null,null
+202101,RS JANTUNG HARAPAN KITA,BEKASI,20,748
+202101,RSPI SULIANTI SAROSO,JAKARTA,91,4378
+202101,Puskesmas Kepulauan Seribu,RS Wisma Atlet,1,19
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,6
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,12
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,9
+202101,Puskesmas Makasar,RS Wisma Atlet,1,18
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,11
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,11
+202101,Puskesmas Rawabadak Selatan Tahap II ,RS Wisma Atlet,1,27
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,26
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,12
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202101,Puskesmas Makasar,RS Wisma Atlet,1,20
+202101,Puskesmas Palmerah,RS Wisma Atlet,1,21
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202101,Puskesmas Tanah Abang,RS Wisma Atlet,1,5
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,34
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,9
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Papanggo,RS Wisma Atlet,1,8
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,8
+202101,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,9
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,30
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202101,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,12
+202101,Puskesmas Kebayoran Lama Tahap I  ,RS Wisma Atlet,1,5
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,14
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,9
+202101,Puskesmas Kemayoran,RS Wisma Atlet,1,14
+202101,Puskesmas Makasar,RS Wisma Atlet,1,12
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,11
+202101,Puskesmas Jagakarsa Tahap II,RS Wisma Atlet,1,14
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,7
+202101,Puskesmas Kebayoran Lama Tahap II,RS Wisma Atlet,1,5
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,15
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,20
+202101,Puskesmas Makasar,RS Wisma Atlet,1,15
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,35
+202101,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,5
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,10
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,11
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,9
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,6
+202101,Puskesmas Cakung,RS Wisma Atlet,1,15
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,7
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,6
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,12
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,13
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,12
+202101,Puskesmas Pasar Minggu Tahap I,RS Wisma Atlet,1,10
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,11
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,8
+202101,Puskesmas Rawabadak Selatan Tahap III,RS Wisma Atlet,1,6
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,8
+202101,Puskesmas Pasar Minggu Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Cilandak,RS Wisma Atlet,1,11
+202101,Puskesmas Setiabudi,RS Wisma Atlet,1,14
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,10
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,10
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,7
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,10
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,5
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,14
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,14
+202101,Puskesmas Tebet,RS Wisma Atlet,1,22
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,13
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,7
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,7
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,6
+202101,Puskesmas Pasar Rebo,RS Wisma Atlet,1,9
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202101,Puskesmas Makasar,RS Wisma Atlet,1,11
+202101,Puskesmas Pancoran Tahap II,RS Wisma Atlet,1,9
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,5
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,9
+202101,Puskesmas Tebet,RS Wisma Atlet,1,24
+202101,Puskesmas Ciracas tahap I,RS Wisma Atlet,1,31
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,13
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202101,Puskesmas Palmerah,RS Wisma Atlet,1,12
+202101,Puskesmas Papanggo,RS Wisma Atlet,1,13
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,12
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,14
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,6
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,10
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,9
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,6
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,5
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,8
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,16
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202101,Puskesmas Pasar Rebo,RS Wisma Atlet,1,9
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Jagakarsa Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,5
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap III,RS Wisma Atlet,1,6
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,8
+202101,Puskesmas Pesanggrahan,RS Wisma Atlet,1,16
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,23
+202101,Puskesmas Makasar,RS Wisma Atlet,1,20
+202101,Puskesmas Tebet ,RS Wisma Atlet,1,35
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,18
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202101,Puskesmas Jagakarsa Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Pasar Rebo,RS Wisma Atlet,1,9
+202101,Puskesmas Duren Sawit Tahap I,RS Wisma Atlet,1,8
+202101,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,10
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap III,RS Wisma Atlet,1,7
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,15
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,6
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,19
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,12
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202101,Puskesmas Jagakarsa Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,7
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,11
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202101,Puskesmas Makasar,RS Wisma Atlet,1,12
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,13
+202101,Puskesmas Jagakarsa tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,14
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202101,Puskesmas Tebet,RS Wisma Atlet,1,19
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,20
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,10
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,11
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,3
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Kemayoran,RS Wisma Atlet,1,8
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,28
+202102,Puskesmas Matraman,RS Wisma Atlet,1,7
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202102,Puskesmas Pulogadung,RS Wisma Atlet,1,9
+202102,Puskesmas Mampang Prapatan,RS Wisma Atlet,1,7
+202102,Puskesmas Kramat Jati Tahap II,RS Wisma Atlet,1,7
+202102,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,18
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,15
+202102,Puskesmas Ciracas ,RS Wisma Atlet,1,19
+202102,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,11
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202102,Puskesmas Tebet,RS Wisma Atlet,1,18
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202102,Puskesmas Pulogadaung,RS Wisma Atlet,1,7
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,31
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,24
+202102,Puskesmas Tanjung Priok,RS Wisma Atlet,1,22
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,13
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,24
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,30
+202102,Puskesmas Senen,RS Wisma Atlet,1,21
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,8
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,12
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,16
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,15
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202102,Puskesmas Cilandak,RS Wisma Atlet,1,15
+202102,Puskesmas Jatinegara,RS Wisma Atlet,1,9
+202102,Puskesmas Makasar,RS Wisma Atlet,1,19
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,25
+202102,Puskesmas Pancoran ,RS Wisma Atlet,1,15
+202102,Puskesmas Tanah Abang,RS Wisma Atlet,1,19
+202102,Puskesmas Kemayoran Tahap I,RS Wisma Atlet,1,7
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,15
+202102,Cempaka Putih,RS Wisma Atlet,1,8
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,25
+202102,Puskesmas Makasar,RS Wisma Atlet,1,36
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,35
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,13
+202102,Puskesmas Tebet,RS Wisma Atlet,1,10
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,28
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,18
+202102,Puskesmas Cilandak,RS Wisma Atlet,1,7
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,7
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,23
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,15
+202102,Puskesmas Makasar,RS Wisma Atlet,1,14
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,11
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202102,Puskesmas Ps. Minggu Tahap I,RS Wisma Atlet,1,10
+202102,Puskesmas Kelapa Gading,RS Wisma Atlet,1,15
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,9
+202102,Puskesmas Ps. Minggu Tahap II,RS Wisma Atlet,1,21
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,14
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,21
+202102,Puskesmas  Matraman,RS Wisma Atlet,1,18
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,33
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,27
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202102,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,20
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,5
+202102,Puskesmas Jagakarsa,RS Wisma Atlet,1,18
+202102,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,7
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,26
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,46
+202102,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,13
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,28
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202102,Puskesmas Makasar,RS Wisma Atlet,1,20
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,20
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202102,Puskesmas Kalideres,RS Wisma Atlet,1,7
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,16
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,17
+202102,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,28
+202102,Puskesmas Makasar,RS Wisma Atlet,1,27
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,8
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,13
+202102,Puskesmas Tebet,RS Wisma Atlet,1,11
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,18
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,12
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,8
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,18
+202102,Puskesmas Pulogadung,RS Wisma Atlet,1,10
+202102,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,12
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202102,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,17
+202102,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,18
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,17
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,29
+202102,Puskesmas Pasar Minggu Tahap I,RS Wisma Atlet,1,17
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,20
+202102,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202102,Puskesmas Cempaka Putih ,RS Wisma Atlet,1,20
+202102,Puskesmas Pasar MInggu     Tahap II,RS Wisma Atlet,1,12
+202102,Puskesmas Papanggo ,RS Wisma Atlet,1,19
+202102,Puskesmas Tanah Abang,RS Wisma Atlet,1,11
+202102,Puskesmas Makasar,RS Wisma Atlet,1,24
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,16
+202102,Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,12
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,11
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,16
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,13
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,12
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,29
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,20
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,35
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,40
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,31
+202102,Puskesmas Pulogadung,RS Wisma Atlet,1,13
+202102,Puskesmas Tebet,RS Wisma Atlet,1,7
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,7
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,33
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,36
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,12
+202102,Puskesmas Jagakarsa,RS Wisma Atlet,1,17
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,10
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,14
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,24
+202102,Puskesmas Makasar,RS Wisma Atlet,1,32
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,26
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,20
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202102,Puskesmas Matraman,RS Wisma Atlet,1,27
+202102,Puskesmas Makasar,RS Wisma Atlet,1,15
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202102,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,8
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,38
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,26
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,70
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,12
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,15
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,19
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,32
+202102,Puskesmas Tambora,RS Wisma Atlet,1,17
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,20
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202102,Puskesmas Kembangan,RS Wisma Atlet,1,9
+202102,Puskesmas Jagakarsa,RS Wisma Atlet,1,9
+202102,Puskesmas Pasar Minggu Tahap II,RS Wisma Atlet,1,11
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,14
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,6
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,14
+202102,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202102,Puskesmas Makasar,RS Wisma Atlet,1,35
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,29
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,17
+202102,Puskesmas Tebet,RS Wisma Atlet,1,12
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,18
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,29
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,12
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,13
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,15
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202102,Puskesmas Makasar,RS Wisma Atlet,1,29
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,17
+202102,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,20
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,27
+202102,Puskesmas Tanah Abang,RS Wisma Atlet,1,11
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,18
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,18
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202102,BANJIR OFF LAYANAN,RS Wisma Atlet,1,null
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,51
+202102,Puskesmas Tanjung Priok,RS Wisma Atlet,1,14
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,30
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,15
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,25
+202102,Puskesmas Cilandak,RS Wisma Atlet,1,8
+202102,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,42
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,16
+202102,Puskesmas Palmerah,RS Wisma Atlet,1,19
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,20
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,16
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,31
+202102,Puskesmas Cilandak,RS Wisma Atlet,1,8
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,16
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,5
+202102,Puskesmas Jagakarsa,RS Wisma Atlet,1,24
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,28
+202102,Puskesmas Mampang Prapatan,RS Wisma Atlet,1,7
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,14
+202102,Puskesmas Jatinegara,RS Wisma Atlet,1,14
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,27
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,16
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,21
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,10
+202102,Puskesmas Tanjung Priok,RS Wisma Atlet,1,10
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,27
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,16
+202102,Puskesmas Tebet,RS Wisma Atlet,1,26
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,18
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,11
+202102,Puskesmas Pasar Rebo,RS Wisma Atlet,1,10
+202102,Puskesmas Cengkareng,RS Wisma Atlet,1,20
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,14
+202102,Puskesmas Krama Jati,RS Wisma Atlet,1,9
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,7
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,12
+202102,Puskesmas Tebet,RS Wisma Atlet,1,8
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,11
+202101,Puskesmas Makasar,RS Wisma Atlet,1,18
+202101,Puskesmas Sawah Besar,RS Wisma Atlet,1,10
+202101,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,5
+202101,PuskesmasTebet Tahap II,RS Wisma Atlet,1,35
+202101,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,13
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,49
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,14
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Senen,RS Wisma Atlet,1,25
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,25
+202101,Puskesmas Sawah Besar,RS Wisma Atlet,1,8
+202101,Puskesmas Makasar,RS Wisma Atlet,1,13
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,7
+202101,Puskesmas Pasar Rebo,RS Wisma Atlet,1,5
+202101,Puskesmas Makasar,RS Wisma Atlet,1,21
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,8
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,10
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202101,Puskesmas Tebet,RS Wisma Atlet,1,31
+202101,Puskesmas Palmerah,RS Wisma Atlet,1,9
+202101,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,9
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,17
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,13
+202101,Puskesmas Tanjung Priok,RS Wisma Atlet,1,48
+202101,Puskesmas Cilandak,RS Wisma Atlet,1,9
+202101,Puskesmas Tanah Abang,RS Wisma Atlet,1,17
+202101,Puskesmas Kemayoran,RS Wisma Atlet,1,25
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,18
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,6
+202101,Puskesmas Tebet,RS Wisma Atlet,1,31
+202101,Puskesmas Mampang Prapatan,RS Wisma Atlet,1,10
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,6
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,19
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,31
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,18
+202101,Puskesmas Sawah Besar,RS Wisma Atlet,1,13
+202101,Puskesmas Kemayoran,RS Wisma Atlet,1,15
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,10
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit Tahap I,RS Wisma Atlet,1,8
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Matraman,RS Wisma Atlet,1,18
+202101,Puskesmas Ciracas ,RS Wisma Atlet,1,23
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202101,Puskesmas Rawabadak Selatan Tahap III,RS Wisma Atlet,1,13
+202101,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,13
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,15
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,14
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202101,Puskesmas Pasar Rebo,RS Wisma Atlet,1,14
+202101,Puskesmas Papanggo Tahap I ,RS Wisma Atlet,1,10
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,19
+202101,Puskesmas Makasar,RS Wisma Atlet,1,15
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,19
+202101,Puskesmas Kelapa Gading,RS Wisma Atlet,1,7
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,20
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,22
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,32
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,21
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,18
+202101,Puskesmas Papanggo Tahap II,RS Wisma Atlet,1,33
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,5
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,20
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,5
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,6
+202101,Puskesmas Kemayoran,RS Wisma Atlet,1,11
+202101,Puskesmas Tebet,RS Wisma Atlet,1,34
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,13
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,10
+202101,Puskesmas Tanjung Priok,RS Wisma Atlet,1,21
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,29
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+202101,Puskesmas Cilandak,RS Wisma Atlet,1,9
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,22
+202101,Puskesmas Makasar,RS Wisma Atlet,1,16
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202101,Puskesmas Duren Sawit Tahap I,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,14
+202101,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,14
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,6
+202101,Puskesmas Jatinegara,RS Wisma Atlet,1,8
+202101,Puskesmas Makasar,RS Wisma Atlet,1,15
+202101,Puskesmas Ciracas Tahap I,RS Wisma Atlet,1,8
+202101,Puskesmas Kelapa Gading,RS Wisma Atlet,1,7
+202101,Puskesmas Mampang Prapatan,RS Wisma Atlet,1,8
+202101,Puskesmas Sawah Besar,RS Wisma Atlet,1,11
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,35
+202101,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,11
+202101,Puskesmas Tebet Tahap II,RS Wisma Atlet,1,20
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,12
+202101,Puskesmas Pancoran Tahap I,RS Wisma Atlet,1,14
+202101,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,7
+202101,Puskesmas Pancoran Tahap II,RS Wisma Atlet,1,10
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,19
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,8
+202101,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,6
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Makasar,RS Wisma Atlet,1,6
+202101,Puskesmas Kemayoran,RS Wisma Atlet,1,13
+202101,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,10
+202101,Puskesmas Jagakarsa,RS Wisma Atlet,1,6
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,17
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,21
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,29
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,11
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,17
+202101,Puskesmas Tebet,RS Wisma Atlet,1,24
+202101,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,17
+202101,Puskesmas Sawah Besar,RS Wisma Atlet,1,8
+202101,Puskesmas Tanjung Priok,RS Wisma Atlet,1,15
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202101,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,10
+202101,Puskesmas Tebet,RS Wisma Atlet,1,17
+202101,Puskesmas Mampang Prapatan,RS Wisma Atlet,1,18
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,35
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202101,Puskesmas Pancoran,RS Wisma Atlet,1,18
+202101,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,34
+202101,Puskesmas Kramat Jati,RS Wisma Atlet,1,17
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202101,Puskesmas Tanjung Priok   Tahap I,RS Wisma Atlet,1,15
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,22
+202101,Puskesmas Tanah Abang,RS Wisma Atlet,1,12
+202101,Puskesmas Tanjung Priok   Tahap II,RS Wisma Atlet,1,15
+202101,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202101,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202101,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202101,Puskesmas Penjaringan,RS Wisma Atlet,1,14
+202101,Puskesmas Cipayung,RS Wisma Atlet,1,15
+202101,Puskesmas Tebet,RS Wisma Atlet,1,17
+202101,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,11
+202101,Puskesmas Kemayoran,RS Wisma Atlet,1,9
+202101,Puskesmas Pulogadung,RS Wisma Atlet,1,10
+202101,Puskesmas Ciracas,RS Wisma Atlet,1,31
+202102,RSUD CENGKARENG,JAKARTA,103,5231
+202102,RSUD CENGKARENG,BOGOR,null,null
+202102,RSUD CENGKARENG,DEPOK,24,634
+202102,RSUD CENGKARENG,TANGERANG,64,1258
+202102,RSUD CENGKARENG,BEKASI,22,257
+202102,RSUD DUREN SAWIT,JAKARTA,108,4646
+202102,RSUD DUREN SAWIT,BOGOR,null,null
+202102,RSUD DUREN SAWIT,DEPOK,null,null
+202102,RSUD DUREN SAWIT,TANGERANG,null,null
+202102,RSUD DUREN SAWIT,BEKASI,null,null
+202102,RSUD PASAR MINGGU,JAKARTA,null,null
+202102,RSUD PASAR MINGGU,BOGOR,1,5
+202102,RSUD PASAR MINGGU,DEPOK,20,213
+202102,RSUD PASAR MINGGU,TANGERANG,null,null
+202102,RSUD PASAR MINGGU,BEKASI,22,201
+202102,RSUD TARAKAN,JAKARTA,null,null
+202102,RSUD TARAKAN,BOGOR,26,1598
+202102,RSUD TARAKAN,DEPOK,26,1328
+202102,RSUD TARAKAN,TANGERANG,46,2631
+202102,RSUD TARAKAN,BEKASI,52,1802
+202102,RSUD PASAR REBO,JAKARTA,null,null
+202102,RSUD PASAR REBO,BOGOR,23,642
+202102,RSUD PASAR REBO,DEPOK,19,257
+202102,RSUD PASAR REBO,TANGERANG,26,272
+202102,RSUD PASAR REBO,BEKASI,25,438
+202102,RSUD KOJA,JAKARTA,81,3824
+202102,RSUD KOJA,BOGOR,null,null
+202102,RSUD KOJA,DEPOK,null,null
+202102,RSUD KOJA,TANGERANG,null,null
+202102,RSUD KOJA,BEKASI,84,1880
+202102,RS PONDOK INDAH,JAKARTA,26,1266
+202102,RS PONDOK INDAH,BOGOR,27,1652
+202102,RS PONDOK INDAH,DEPOK,null,null
+202102,RS PONDOK INDAH,TANGERANG,null,null
+202102,RS PONDOK INDAH,BEKASI,null,null
+202102,RSUD BUDHI ASIH,JAKARTA,null,null
+202102,RSUD BUDHI ASIH,BOGOR,58,888
+202102,RSUD BUDHI ASIH,DEPOK,null,null
+202102,RSUD BUDHI ASIH,TANGERANG,null,null
+202102,RSUD BUDHI ASIH,BEKASI,20,248
+202102,R S C M,JAKARTA,84,6968
+202102,R S C M,BOGOR,78,3221
+202102,R S C M,DEPOK,52,3244
+202102,R S C M,TANGERANG,68,1942
+202102,R S C M,BEKASI,78,5726
+202102,P M I,JAKARTA,24,180
+202102,P M I,BOGOR,null,null
+202102,P M I,DEPOK,22,563
+202102,P M I,TANGERANG,null,null
+202102,P M I,BEKASI,43,731
+202102,RSUD JATI PADANG,JAKARTA,81,989
+202102,RS ADHYAKSA,JAKARTA,null,null
+202102,RSUD CIRACAS,JAKARTA,null,null
+202102,RSUD KEBAYORAN BARU,JAKARTA,null,null
+202102,PUSKESMAS TEBET,JAKARTA,null,null
+202102,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202102,PUSKESMAS CILANDAK,JAKARTA,null,null
+202102,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202102,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202102,RSUP PERSAHABATAN,JAKARTA,19,400
+202102,RSUP PERSAHABATAN,BOGOR,37,623
+202102,RSUP PERSAHABATAN,DEPOK,19,454
+202102,RSUP PERSAHABATAN,TANGERANG,null,null
+202102,RSUP PERSAHABATAN,BEKASI,44,1478
+202102,RS JANTUNG HARAPAN KITA,BOGOR,26,578
+202102,RS JANTUNG HARAPAN KITA,TANGERANG,null,null
+202102,RS JANTUNG HARAPAN KITA,BEKASI,19,733
+202102,RSPI SULIANTI SAROSO,JAKARTA,81,5541
+202102,RSUP FATMAWATI,JAKARTA,27,1730
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,31
+202102,Puskesmas Rawabadak Selatan Tahap I,RS Wisma Atlet,1,20
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202102,Puskesmas Rawabadak Selatan Tahap II,RS Wisma Atlet,1,26
+202102,Puskesmas Tebet,RS Wisma Atlet,1,11
+202102,Puskesmas Makasar,RS Wisma Atlet,1,18
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,9
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,14
+202102,Puskesmas Jatinegara,RS Wisma Atlet,1,24
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,24
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,29
+202103,RS JANTUNG HARAPAN KITA,BOGOR,30,708
+202103,RS JANTUNG HARAPAN KITA,TANGERANG,null,null
+202103,RS JANTUNG HARAPAN KITA,BEKASI,22,1049
+202103,RSPI SULIANTI SAROSO,JAKARTA,92,5142
+202103,RSUP FATMAWATI,JAKARTA,31,2956
+202103,Puskesmas Kramat Jati ,RS Wisma Atlet,1,11
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,13
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,15
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,29
+202103,Puskesmas Cilincing,RS Wisma Atlet,1,13
+202103,Puskesmas Kemayoran,RS Wisma Atlet,1,11
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202103,Puskesmas Duren Sawit Tahap II,RS Wisma Atlet,1,7
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,11
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202103,Puskesmas Cengkareng,RS Wisma Atlet,1,10
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202103,Puskesmas Jagakarsa,RS Wisma Atlet,1,21
+202103,Puskesmas Tebet,RS Wisma Atlet,1,13
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,15
+202103,Puskesmas Papanggo,RS Wisma Atlet,1,12
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,11
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,7
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,17
+202103,Puskesmas Pasar Minggu Tahap I,RS Wisma Atlet,1,38
+202103,Puskesmas Taman Sari,RS Wisma Atlet,1,7
+202103,Puskesmas Pasar Minggu Tahap II,RS Wisma Atlet,1,18
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202103,Puskesmas Cilandak,RS Wisma Atlet,1,9
+202103,Puskesmas Papanggo,RS Wisma Atlet,1,14
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,22
+202103,Puskesmas Makasar,RS Wisma Atlet,1,16
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,10
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,34
+202103,Puskesmas Pasar Minggu Tahap II,RS Wisma Atlet,1,16
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,12
+202103,Puskesmas Papanggo,RS Wisma Atlet,1,18
+202103,Puskesmas Cilandak,RS Wisma Atlet,1,9
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,17
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,27
+202103,Puskesmas Cilincing,RS Wisma Atlet,1,11
+202103,Puskesmas Tebet,RS Wisma Atlet,1,15
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,14
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,36
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,35
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,28
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202103,Puskesmas Cilandak,RS Wisma Atlet,1,15
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,14
+202103,Puskesmas Pulogadung,RS Wisma Atlet,1,8
+202103,Puskesmas Penjaringan,RS Wisma Atlet,1,9
+202103,Puskesmas Papanggo,RS Wisma Atlet,1,14
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,16
+202103,Puskesmas Makasar,RS Wisma Atlet,1,10
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,9
+202103,Puskesmas Cilincing,RS Wisma Atlet,1,20
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,8
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,21
+202103,Puskesmas Tebet,RS Wisma Atlet,1,15
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,19
+202103,Puskesmas Penjaringan,RS Wisma Atlet,1,10
+202103,Puskesmas Pasar Minggu Tahap II,RS Wisma Atlet,1,8
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,15
+202103,Puskesmas Papanggo,RS Wisma Atlet,1,20
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,15
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,34
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,8
+202103,Puskesmas Tebet,RS Wisma Atlet,1,15
+202103,Puskesmas Rawabadak selatan,RS Wisma Atlet,1,15
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,16
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202103,Puskesmas Makasar,RS Wisma Atlet,1,10
+202103,Puskesmas Penjaringan,RS Wisma Atlet,1,10
+202103,Puskesmas Kemayoran,RS Wisma Atlet,1,18
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202103,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,33
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,20
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,8
+202103,Puskesmas Taman Sari,RS Wisma Atlet,1,6
+202103,Puskesmas Tanjung Priok,RS Wisma Atlet,1,10
+202103,Puskesmas Pulogadung,RS Wisma Atlet,1,21
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,6
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,9
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202103,Puskesmas Makasar,RS Wisma Atlet,1,18
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,11
+202103,Puskesmas Tebet,RS Wisma Atlet,1,11
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202103,Puskesmas Jagakarsa,RS Wisma Atlet,1,7
+202103,Puskesmas Kramat Jati Tahap II,RS Wisma Atlet,1,7
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,15
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,20
+202103,Puskesmas Matraman,RS Wisma Atlet,1,14
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,34
+202103,Puskesmas Tebet,RS Wisma Atlet,1,9
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,14
+202103,Puskesmas Penjaringan,RS Wisma Atlet,1,6
+202103,Puskesmas Cilandak,RS Wisma Atlet,1,8
+202103,Puskesmas Pulogadung,RS Wisma Atlet,1,12
+202103,Puskesmas Tanjung Priok,RS Wisma Atlet,1,17
+202103,Puskesmas Kemayoran,RS Wisma Atlet,1,19
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,9
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,15
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202104,RSUD CENGKARENG,JAKARTA,115,6638
+202104,RSUD CENGKARENG,BOGOR,null,null
+202104,RSUD CENGKARENG,DEPOK,29,807
+202104,RSUD CENGKARENG,TANGERANG,76,1808
+202104,RSUD CENGKARENG,BEKASI,24,422
+202104,RSUD DUREN SAWIT,JAKARTA,118,2711
+202104,RSUD DUREN SAWIT,BOGOR,null,null
+202104,RSUD DUREN SAWIT,DEPOK,null,null
+202104,RSUD DUREN SAWIT,TANGERANG,null,null
+202104,RSUD DUREN SAWIT,BEKASI,null,null
+202104,RSUD PASAR MINGGU,JAKARTA,null,null
+202104,RSUD PASAR MINGGU,BOGOR,14,120
+202104,RSUD PASAR MINGGU,DEPOK,4,24
+202104,RSUD PASAR MINGGU,TANGERANG,null,null
+202104,RSUD PASAR MINGGU,BEKASI,21,205
+202104,RSUD TARAKAN,JAKARTA,null,null
+202104,RSUD TARAKAN,BOGOR,30,1587
+202104,RSUD TARAKAN,DEPOK,30,1431
+202104,RSUD TARAKAN,TANGERANG,56,2449
+202104,RSUD TARAKAN,BEKASI,59,2064
+202104,RSUD PASAR REBO,JAKARTA,null,null
+202104,RSUD PASAR REBO,BOGOR,24,578
+202104,RSUD PASAR REBO,DEPOK,20,341
+202104,RSUD PASAR REBO,TANGERANG,null,null
+202104,RSUD PASAR REBO,BEKASI,28,542
+202104,RSUD KOJA,JAKARTA,82,4409
+202104,RSUD KOJA,BOGOR,null,null
+202104,RSUD KOJA,DEPOK,null,null
+202104,RSUD KOJA,TANGERANG,null,null
+202104,RSUD KOJA,BEKASI,84,2011
+202104,RS PONDOK INDAH,JAKARTA,30,1507
+202104,RS PONDOK INDAH,BOGOR,30,1894
+202104,RS PONDOK INDAH,DEPOK,null,null
+202104,RS PONDOK INDAH,TANGERANG,0,0
+202104,RS PONDOK INDAH,BEKASI,null,null
+202104,RSUD BUDHI ASIH,JAKARTA,null,null
+202104,RSUD BUDHI ASIH,BOGOR,66,1184
+202104,RSUD BUDHI ASIH,DEPOK,null,null
+202104,RSUD BUDHI ASIH,TANGERANG,null,null
+202104,RSUD BUDHI ASIH,BEKASI,24,365
+202104,R S C M,JAKARTA,86,5875
+202104,R S C M,BOGOR,76,3990
+202104,R S C M,DEPOK,53,3520
+202104,R S C M,TANGERANG,73,2132
+202104,R S C M,BEKASI,84,6629
+202104,P M I,JAKARTA,7,84
+202104,P M I,BOGOR,null,null
+202104,P M I,DEPOK,29,1115
+202104,P M I,TANGERANG,null,null
+202104,P M I,BEKASI,31,716
+202104,RSUD JATI PADANG,JAKARTA,90,1146
+202104,PUSKESMAS MAMPANG PRAPATAN,JAKARTA,null,null
+202104,PUSKESMAS PANCORAN,JAKARTA,null,null
+202104,PUSKESMAS CILANDAK,JAKARTA,null,null
+202104,PUSKESMAS TEBET,JAKARTA,null,null
+202104,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202104,PUSKESMAS KEBAYORAN BARU,JAKARTA,null,null
+202104,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202104,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202104,RSUP PERSAHABATAN,JAKARTA,22,523
+202104,RSUP PERSAHABATAN,BOGOR,41,737
+202104,RSUP PERSAHABATAN,DEPOK,21,551
+202104,RSUP PERSAHABATAN,TANGERANG,null,null
+202104,RSUP PERSAHABATAN,BEKASI,46,1827
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,15
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,14
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,12
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,25
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,26
+202103,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,23
+202103,Puskesmas Tanjung Priok,RS Wisma Atlet,1,14
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,10
+202103,Puskesmas Makasar,RS Wisma Atlet,1,10
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,12
+202103,Puskesmas Penjaringan,RS Wisma Atlet,1,3
+202103,Puskesmas Tebet,RS Wisma Atlet,1,22
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202103,Puskesmas Kebayoran Lama Tahap II,RS Wisma Atlet,1,10
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,6
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202103,Puskesmas duren Sawit,RS Wisma Atlet,1,8
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202103,Puskesmas Pulogadung,RS Wisma Atlet,1,7
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,28
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,24
+202103,Puskesmas Kramat Jati Tahap II,RS Wisma Atlet,1,9
+202103,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,7
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,11
+202103,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,8
+202103,Puskesmas Tebet Tahap II,RS Wisma Atlet,1,15
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,25
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,17
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,10
+202103,Puskesmas Tanjung Priok,RS Wisma Atlet,1,15
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,10
+202103,Puskesmas Matraman,RS Wisma Atlet,1,22
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,20
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,27
+202103,Puskesmas Makasar,RS Wisma Atlet,1,28
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202103,Puskesmas Jagakarsa,RS Wisma Atlet,1,10
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,26
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,18
+202103,Puskesmas Tanjung Priok,RS Wisma Atlet,1,14
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,11
+202103,Puskesmas Koja,RS Wisma Atlet,1,13
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,32
+202103,Puskesmas Tebet,RS Wisma Atlet,1,8
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,28
+202103,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202103,Puskesmas Mampang Prapatan,RS Wisma Atlet,1,8
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,13
+202103,Puskesmas Clincing,RS Wisma Atlet,1,11
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,25
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,11
+202103,Puskesmas Mampang Prapatan,RS Wisma Atlet,1,9
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,12
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,15
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,12
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202103,Puskesmas Koja,RS Wisma Atlet,1,9
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,11
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202103,Puskesmas Pasar Rebo,RS Wisma Atlet,1,10
+202103,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,20
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202103,Puskesmas Tebet,RS Wisma Atlet,1,15
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,9
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,13
+202103,Puskesmas Koja,RS Wisma Atlet,1,17
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202103,Puskesmas Kemayoran,RS Wisma Atlet,1,12
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,31
+202103,Puskesmas Jagakarsa,RS Wisma Atlet,1,11
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,26
+202103,Puskesmas Pulo Gadung,RS Wisma Atlet,1,10
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,13
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202103,Puskesmas Koja,RS Wisma Atlet,1,15
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202103,Puskesmas Kemayoran,RS Wisma Atlet,1,10
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,24
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,10
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,9
+202103,Puskesmas Tanjung Priok,RS Wisma Atlet,1,20
+202103,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,10
+202103,Puskesmas Koja,RS Wisma Atlet,1,12
+202103,Puskesmas Tebet Tahap II,RS Wisma Atlet,1,10
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,15
+202103,Puskesmas Cipayung,RS Wisma Atlet,1,20
+202103,Puskesmas Pulo Gadung,RS Wisma Atlet,1,11
+202103,Puskesmas Makasar,RS Wisma Atlet,1,14
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,38
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,12
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202103,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202103,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,6
+202103,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,6
+202103,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202102,Puskesmas Makasar,RS Wisma Atlet,1,9
+202102,Puskesmas Cilandak,RS Wisma Atlet,1,10
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,44
+202102,Puskesmas Tanjung Priok,RS Wisma Atlet,1,20
+202102,Puskesmas Pulogadung,RS Wisma Atlet,1,10
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,10
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,18
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,18
+202102,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202102,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202102,Puskesmas Makasar,RS Wisma Atlet,1,25
+202102,Puskesmas Jagakarsa,RS Wisma Atlet,1,28
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,37
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,32
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,15
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,15
+202102,Puskesmas Kramat Jati Tahap II,RS Wisma Atlet,1,15
+202102,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,14
+202102,Puskesmas Pasar Minggu Tahap I,RS Wisma Atlet,1,8
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,16
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,20
+202102,Puskesmas Tebet,RS Wisma Atlet,1,20
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,17
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,16
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,24
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,12
+202102,Puskesmas Pasar Minggu Tahap II,RS Wisma Atlet,1,19
+202102,Puskesmas Pasar Rebo,RS Wisma Atlet,1,21
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,16
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202102,Puskesmas Kramat Jati,RS Wisma Atlet,1,16
+202102,Puskesmas Makasar,RS Wisma Atlet,1,15
+202102,Puskesmas Rawabadak Selatan,RS Wisma Atlet,1,11
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,26
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,17
+202102,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,26
+202102,Puskesmas Cipayung,RS Wisma Atlet,1,11
+202102,Puskesmas Pasar Minggu Tahap II,RS Wisma Atlet,1,14
+202102,Puskesmas Tebet Tahap II,RS Wisma Atlet,1,12
+202102,Puskesmas Pancoran,RS Wisma Atlet,1,20
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,14
+202102,Puskesmas Pulogadung,RS Wisma Atlet,1,10
+202102,Puskesmas Duren Sawit,RS Wisma Atlet,1,11
+202102,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202102,Puskesmas Makasar,RS Wisma Atlet,1,18
+202102,Puskesmas Kemayoran,RS Wisma Atlet,1,20
+202102,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202102,Puskesmas Papanggo,RS Wisma Atlet,1,28
+202102,Puskesmas Cempaka Putih,RS Wisma Atlet,1,14
+202103,Puskesmas Kramat Jati,RS Wisma Atlet,1,16
+202103,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202103,Puskesmas Makasar,RS Wisma Atlet,1,13
+202103,Puskesmas Koja,RS Wisma Atlet,1,12
+202103,Puskesmas Ciracas,RS Wisma Atlet,1,26
+202103,Puskesmas Kemayoran,RS Wisma Atlet,1,16
+202103,RSUD CENGKARENG,JAKARTA,119,6517
+202103,RSUD CENGKARENG,BOGOR,null,null
+202103,RSUD CENGKARENG,DEPOK,29,800
+202103,RSUD CENGKARENG,TANGERANG,79,1603
+202103,RSUD CENGKARENG,BEKASI,26,347
+202103,RSUD DUREN SAWIT,JAKARTA,124,4457
+202103,RSUD DUREN SAWIT,BOGOR,null,null
+202103,RSUD DUREN SAWIT,DEPOK,null,null
+202103,RSUD DUREN SAWIT,TANGERANG,null,null
+202103,RSUD DUREN SAWIT,BEKASI,null,null
+202103,RSUD PASAR MINGGU,JAKARTA,null,null
+202103,RSUD PASAR MINGGU,BOGOR,18,141
+202103,RSUD PASAR MINGGU,DEPOK,15,206
+202103,RSUD PASAR MINGGU,TANGERANG,null,null
+202103,RSUD PASAR MINGGU,BEKASI,23,219
+202103,RSUD TARAKAN,JAKARTA,null,null
+202103,RSUD TARAKAN,BOGOR,31,1817
+202103,RSUD TARAKAN,DEPOK,31,1566
+202103,RSUD TARAKAN,TANGERANG,51,2921
+202103,RSUD TARAKAN,BEKASI,61,2198
+202103,RSUD PASAR REBO,JAKARTA,null,null
+202103,RSUD PASAR REBO,BOGOR,27,708
+202103,RSUD PASAR REBO,DEPOK,13,189
+202103,RSUD PASAR REBO,TANGERANG,9,86
+202103,RSUD PASAR REBO,BEKASI,30,558
+202103,RSUD KOJA,JAKARTA,84,4437
+202103,RSUD KOJA,BOGOR,null,null
+202103,RSUD KOJA,DEPOK,null,null
+202103,RSUD KOJA,TANGERANG,null,null
+202103,RSUD KOJA,BEKASI,101,2057
+202103,RS PONDOK INDAH,JAKARTA,31,1621
+202103,RS PONDOK INDAH,BOGOR,31,1920
+202103,RS PONDOK INDAH,DEPOK,null,null
+202103,RS PONDOK INDAH,TANGERANG,0,0
+202103,RS PONDOK INDAH,BEKASI,null,null
+202103,RSUD BUDHI ASIH,JAKARTA,null,null
+202103,RSUD BUDHI ASIH,BOGOR,70,1139
+202103,RSUD BUDHI ASIH,DEPOK,null,null
+202103,RSUD BUDHI ASIH,TANGERANG,null,null
+202103,RSUD BUDHI ASIH,BEKASI,24,329
+202103,R S C M,JAKARTA,106,7268
+202103,R S C M,BOGOR,89,3890
+202103,R S C M,DEPOK,59,3840
+202103,R S C M,TANGERANG,81,2320
+202103,R S C M,BEKASI,92,6658
+202103,P M I,JAKARTA,27,177
+202103,P M I,BOGOR,null,null
+202103,P M I,DEPOK,30,677
+202103,P M I,TANGERANG,null,null
+202103,P M I,BEKASI,51,953
+202103,RSUD JATI PADANG,JAKARTA,93,1151
+202103,PUSKESMAS MAMPANG PRAPATAN,JAKARTA,null,null
+202103,PUSKESMAS PANCORAN,JAKARTA,null,null
+202103,PUSKESMAS CILANDAK,JAKARTA,null,null
+202103,PUSKESMAS TEBET,JAKARTA,null,null
+202103,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202103,PUSKESMAS KEBAYORAN BARU,JAKARTA,null,null
+202103,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202103,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202103,RSUP PERSAHABATAN,JAKARTA,22,538
+202103,RSUP PERSAHABATAN,BOGOR,44,907
+202103,RSUP PERSAHABATAN,DEPOK,22,599
+202103,RSUP PERSAHABATAN,TANGERANG,null,null
+202103,RSUP PERSAHABATAN,BEKASI,47,1816
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,23
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,15
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,13
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,31
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,14
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,6
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202106,Puskesmas Koja,RS Wisma Atlet,1,7
+202106,Puskesmas Tebet,RS Wisma Atlet,1,23
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,19
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,7
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,16
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202106,Puskesmas Matraman,RS Wisma Atlet,1,8
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,9
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,6
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,21
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202106,Puskesmas Matraman,RS Wisma Atlet,1,8
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,33
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202106,Puskesmas Koja,RS Wisma Atlet,1,19
+202106,Puskesmas Koja (II),RS Wisma Atlet,1,14
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,12
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,58
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,22
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,10
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,40
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,22
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,34
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,13
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,6
+202106,Puskesmas Makasar,RS Wisma Atlet,1,9
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,13
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,8
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,20
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,11
+202106,Puskesmas Kebon Jeruk,RS Wisma Atlet,1,10
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,10
+202106,Psukesmas Duren Sawit,RS Wisma Atlet,1,9
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,8
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,8
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Tebet,RS Wisma Atlet,1,15
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,11
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,10
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202106,RS KKO Cilandak,RS Wisma Atlet,1,17
+202106,Puskesmas Tebet,RS Wisma Atlet,1,7
+202106,Puskesmas Koja,RS Wisma Atlet,1,22
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202106,Puskesmas Menteng,RS Wisma Atlet,1,13
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,17
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,20
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,5
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,25
+202106,Psukesmas Pasar Minggu (II),RS Wisma Atlet,1,16
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,19
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,15
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,10
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,6
+202106,Puskesmas Cilincing (II),RS Wisma Atlet,1,11
+202106,Puskesmas Ciracas (II),RS Wisma Atlet,1,12
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,14
+202106,Puskesmas Tanjung Priuk (II),RS Wisma Atlet,1,12
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,12
+202106,Puskesmas Gambir,RS Wisma Atlet,1,19
+202106,Puskesmas Cakung,RS Wisma Atlet,1,18
+202106,Puskesmas Makasar,RS Wisma Atlet,1,16
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,18
+202106,Puskesmas Tebet,RS Wisma Atlet,1,26
+202106,RS KKO Cilandak,RS Wisma Atlet,1,10
+202106,Puskesmas Kalideres,RS Wisma Atlet,1,7
+202106,Puskesmas Matraman,RS Wisma Atlet,1,20
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,7
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,22
+202106,Puskesmas Koja,RS Wisma Atlet,1,11
+202106,Puskesmas Koja (II),RS Wisma Atlet,1,22
+202106,Puskesmas Kebon Jeruk,RS Wisma Atlet,1,16
+202106,Puskesmas Pasar Rebo,RS Wisma Atlet,1,11
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,12
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,16
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,24
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,54
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,13
+202106,Puskesmas Palmerah ,RS Wisma Atlet,1,21
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,6
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,12
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,68
+202106,Puskesmas Kembangan ,RS Wisma Atlet,1,7
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,11
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,8
+202106,Puskesmas Makasar (II),RS Wisma Atlet,1,17
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202106,Puskesmas Kelapa Gading (II),RS Wisma Atlet,1,15
+202106,Puskesmas Tanjung Priuk,RS Wisma Atlet,1,15
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,11
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,45
+202106,Puskesmas Setiabudi (II),RS Wisma Atlet,1,19
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,12
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,6
+202106,Puskesmas Tebet,RS Wisma Atlet,1,35
+202106,RSUD CENGKARENG,JAKARTA,104,4694
+202106,RSUD CENGKARENG,BOGOR,null,null
+202106,RSUD CENGKARENG,DEPOK,29,772
+202106,RSUD CENGKARENG,TANGERANG,73,1499
+202106,RSUD CENGKARENG,BEKASI,25,452
+202106,RSUD DUREN SAWIT,JAKARTA,79,1346
+202106,RSUD DUREN SAWIT,BOGOR,null,null
+202106,RSUD DUREN SAWIT,DEPOK,null,null
+202106,RSUD DUREN SAWIT,TANGERANG,null,null
+202106,RSUD DUREN SAWIT,BEKASI,null,null
+202106,RSUD PASAR MINGGU,JAKARTA,16,508
+202106,RSUD PASAR MINGGU,BOGOR,0,0
+202106,RSUD PASAR MINGGU,DEPOK,0,0
+202106,RSUD PASAR MINGGU,TANGERANG,null,null
+202106,RSUD PASAR MINGGU,BEKASI,0,0
+202106,RSUD TARAKAN,JAKARTA,21,773
+202106,RSUD TARAKAN,BOGOR,30,1683
+202106,RSUD TARAKAN,DEPOK,29,1285
+202106,RSUD TARAKAN,TANGERANG,42,1863
+202106,RSUD TARAKAN,BEKASI,60,2108
+202106,RSUD PASAR REBO,JAKARTA,null,null
+202106,RSUD PASAR REBO,BOGOR,29,657
+202106,RSUD PASAR REBO,DEPOK,21,286
+202106,RSUD PASAR REBO,TANGERANG,null,null
+202106,RSUD PASAR REBO,BEKASI,28,611
+202106,RSUD KOJA,JAKARTA,82,3646
+202106,RSUD KOJA,BOGOR,null,null
+202106,RSUD KOJA,DEPOK,null,null
+202106,RSUD KOJA,TANGERANG,null,null
+202106,RSUD KOJA,BEKASI,98,1970
+202106,RS PONDOK INDAH,JAKARTA,30,1259
+202106,RS PONDOK INDAH,BOGOR,29,1704
+202106,RS PONDOK INDAH,DEPOK,null,null
+202106,RS PONDOK INDAH,TANGERANG,0,0
+202106,RS PONDOK INDAH,BEKASI,null,null
+202106,RSUD BUDHI ASIH,JAKARTA,null,null
+202106,RSUD BUDHI ASIH,BOGOR,62,1211
+202106,RSUD BUDHI ASIH,DEPOK,null,null
+202106,RSUD BUDHI ASIH,TANGERANG,null,null
+202106,RSUD BUDHI ASIH,BEKASI,22,315
+202106,R S C M,JAKARTA,62,3358
+202106,R S C M,BOGOR,73,3682
+202106,R S C M,DEPOK,49,3353
+202106,R S C M,TANGERANG,72,2150
+202106,R S C M,BEKASI,81,5888
+202106,P M I,JAKARTA,0,0
+202106,P M I,BOGOR,null,null
+202106,P M I,DEPOK,23,656
+202106,P M I,TANGERANG,null,null
+202106,P M I,BEKASI,26,569
+202106,RSUD JATI PADANG,JAKARTA,89,1663
+202106,PUSKESMAS MAMPANG PRAPATAN,JAKARTA,null,null
+202106,PUSKESMAS PANCORAN,JAKARTA,null,null
+202106,PUSKESMAS CILANDAK,JAKARTA,null,null
+202106,PUSKESMAS TEBET,JAKARTA,null,null
+202106,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202106,PUSKESMAS KEBAYORAN BARU,JAKARTA,null,null
+202106,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202106,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202106,RSUP PERSAHABATAN,JAKARTA,21,416
+202106,RSUP PERSAHABATAN,BOGOR,42,837
+202106,RSUP PERSAHABATAN,DEPOK,21,437
+202106,RSUP PERSAHABATAN,TANGERANG,null,null
+202106,RSUP PERSAHABATAN,BEKASI,43,1767
+202106,RS JANTUNG HARAPAN KITA,JAKARTA,49,1858
+202106,RS JANTUNG HARAPAN KITA,BOGOR,28,1228
+202106,RS JANTUNG HARAPAN KITA,TANGERANG,0,0
+202106,RS JANTUNG HARAPAN KITA,BEKASI,21,850
+202106,RSPI SULIANTI SAROSO,JAKARTA,90,3634
+202106,RSUP FATMAWATI,JAKARTA,19,1051
+202106,RS KANKER DHARMAIS,JAKARTA,45,1784
+202106,RS KETERGANTUNGAN OBAT,JAKARTA,9,46
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,13
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,20
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,15
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,14
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,16
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,21
+202106,Puskesmas Jagakarsa,RS Wisma Atlet,1,10
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,21
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,4
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,19
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,12
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,14
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,11
+202106,Puskesmas Koja,RS Wisma Atlet,1,10
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,8
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,26
+202106,Puskesmas Cengkareng,RS Wisma Atlet,1,13
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,6
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,7
+202106,Puskesmas Gambir,RS Wisma Atlet,1,9
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,11
+202106,Puskesmas Koja,RS Wisma Atlet,1,14
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,18
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,18
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,11
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,11
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,25
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202106,Puskesmas Tebet,RS Wisma Atlet,1,14
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,8
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,18
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,19
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,11
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,12
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202106,Puskesmas Koja,RS Wisma Atlet,1,7
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,14
+202106,Puskesmas Tebet,RS Wisma Atlet,1,16
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202104,RS JANTUNG HARAPAN KITA,BOGOR,26,686
+202104,RS JANTUNG HARAPAN KITA,TANGERANG,null,null
+202104,RS JANTUNG HARAPAN KITA,BEKASI,22,953
+202104,RSPI SULIANTI SAROSO,JAKARTA,90,4842
+202104,RSUP FATMAWATI,JAKARTA,29,2931
+202104,RS KANKER DHARMAIS,JAKARTA,30,1456
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,12,69
+202104,Puskesmas Tebet,RS Wisma Atlet,11,69
+202104,Puskesmas Ciracas,RS Wisma Atlet,8,69
+202104,Puskesmas Jagakarsa,RS Wisma Atlet,11,69
+202104,Puskesmas Cilandak,RS Wisma Atlet,11,69
+202104,Puskesmas Kramat Jati,RS Wisma Atlet,16,69
+202104,Puskesmas Ciracas,RS Wisma Atlet,14,29
+202104,Puskesmas Pancoran,RS Wisma Atlet,15,29
+202104,Puskesmas Penjaringan,RS Wisma Atlet,13,13
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,5,34
+202104,Puskesmas Koja,RS Wisma Atlet,9,34
+202104,Puskesmas Kebayoran Lama,RS Wisma Atlet,13,34
+202104,Puskesmas Ciracas,RS Wisma Atlet,7,34
+202104,Puskesmas Koja,RS Wisma Atlet,15,57
+202104,Puskesmas Ciracas,RS Wisma Atlet,28,57
+202104,Puskesmas Kramat Jati,RS Wisma Atlet,14,57
+202104,Puskesmas Ciracas,RS Wisma Atlet,10,26
+202104,Puskesmas Pancoran,RS Wisma Atlet,10,26
+202104,Puskesmas Kramat Jati,RS Wisma Atlet,6,26
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,10,33
+202104,Puskesmas Pasar Minggu,RS Wisma Atlet,15,33
+202104,Puskesmas Kramat Jati,RS Wisma Atlet,8,33
+202104,Puskesmas Ciracas,RS Wisma Atlet,13,20
+202104,Puskesmas Kramat Jati,RS Wisma Atlet,7,20
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,8,8
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,6,21
+202104,Puskesmas Pasar Minggu,RS Wisma Atlet,15,21
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,7,28
+202104,Puskesmas Cipayung,RS Wisma Atlet,12,28
+202104,Puskesmas Kelapa Gading,RS Wisma Atlet,9,28
+202104,Puskesmas Koja,RS Wisma Atlet,11,32
+202104,Puskesmas Ciracas,RS Wisma Atlet,11,32
+202104,Puskesmas Cipayung,RS Wisma Atlet,10,32
+202104,Puskesmas Tebet,RS Wisma Atlet,27,69
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,14,69
+202104,Puskesmas Pasar Minggu,RS Wisma Atlet,9,69
+202104,Puskesmas Kebayoran Lama,RS Wisma Atlet,8,69
+202104,Puskesmas Kramat Jati,RS Wisma Atlet,11,69
+202104,Puskesmas Pasar Minggu,RS Wisma Atlet,10,10
+202104,Puskesmas Ciracas,RS Wisma Atlet,6,31
+202104,Puskesmas Pancoran,RS Wisma Atlet,9,31
+202104,Puskesmas Pasar Minggu,RS Wisma Atlet,9,31
+202104,Puskesmas Pasar Minggu (II),RS Wisma Atlet,7,31
+202104,Puskesmas Cipayung,RS Wisma Atlet,20,20
+202104,Puskesmas Ciracas,RS Wisma Atlet,29,50
+202104,Puskesmas Kemayoran,RS Wisma Atlet,13,50
+202104,Puskesmas Pasar Minggu,RS Wisma Atlet,8,50
+202104,Puskesmas Ciracas,RS Wisma Atlet,6,6
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,8,58
+202104,Puskesmas Ciracas,RS Wisma Atlet,15,58
+202104,Puskesmas Pancoran,RS Wisma Atlet,8,58
+202104,Puskesmas Cipayung,RS Wisma Atlet,15,58
+202104,Puskesmas Jagakarsa,RS Wisma Atlet,12,58
+202104,Puskesmas Tebet,RS Wisma Atlet,10,18
+202104,Puskesmas Ciracas,RS Wisma Atlet,8,18
+202104,Puskesmas Penjaringan,RS Wisma Atlet,14,14
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,7,7
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,6,100
+202104,Puskesmas Cengkareng,RS Wisma Atlet,30,100
+202104,Puskesmas Matraman,RS Wisma Atlet,13,100
+202104,Puskesmas Ciracas,RS Wisma Atlet,18,100
+202104,Puskesmas Jagakarsa,RS Wisma Atlet,22,100
+202104,Puskesmas Kemayoran,RS Wisma Atlet,11,100
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,6,16
+202104,Puskesmas Kemayoran,RS Wisma Atlet,10,16
+202104,Puskesmas Matraman,RS Wisma Atlet,13,171
+202104,Puskesmas Duren Sawit,RS Wisma Atlet,16,171
+202104,Puskesmas Koja,RS Wisma Atlet,12,171
+202104,Puskesmas Cengkareng,RS Wisma Atlet,116,171
+202104,Puskesmas Ciracas,RS Wisma Atlet,14,171
+202105,RSUD CENGKARENG,JAKARTA,115,6114
+202105,RSUD CENGKARENG,BOGOR,null,null
+202105,RSUD CENGKARENG,DEPOK,27,759
+202105,RSUD CENGKARENG,TANGERANG,60,1277
+202105,RSUD CENGKARENG,BEKASI,28,507
+202105,RSUD DUREN SAWIT,JAKARTA,117,2284
+202105,RSUD DUREN SAWIT,BOGOR,null,null
+202105,RSUD DUREN SAWIT,DEPOK,null,null
+202105,RSUD DUREN SAWIT,TANGERANG,null,null
+202105,RSUD DUREN SAWIT,BEKASI,null,null
+202105,RSUD PASAR MINGGU,JAKARTA,null,null
+202105,RSUD PASAR MINGGU,BOGOR,12,109
+202105,RSUD PASAR MINGGU,DEPOK,2,9
+202105,RSUD PASAR MINGGU,TANGERANG,null,null
+202105,RSUD PASAR MINGGU,BEKASI,13,118
+202105,RSUD TARAKAN,JAKARTA,null,null
+202105,RSUD TARAKAN,BOGOR,27,1426
+202105,RSUD TARAKAN,DEPOK,31,1479
+202105,RSUD TARAKAN,TANGERANG,58,2209
+202105,RSUD TARAKAN,BEKASI,57,1786
+202105,RSUD PASAR REBO,JAKARTA,null,null
+202105,RSUD PASAR REBO,BOGOR,26,653
+202105,RSUD PASAR REBO,DEPOK,20,324
+202105,RSUD PASAR REBO,TANGERANG,null,null
+202105,RSUD PASAR REBO,BEKASI,31,584
+202105,RSUD KOJA,JAKARTA,80,3896
+202105,RSUD KOJA,BOGOR,null,null
+202105,RSUD KOJA,DEPOK,null,null
+202105,RSUD KOJA,TANGERANG,null,null
+202105,RSUD KOJA,BEKASI,81,1763
+202105,RS PONDOK INDAH,JAKARTA,31,1335
+202105,RS PONDOK INDAH,BOGOR,30,1675
+202105,RS PONDOK INDAH,DEPOK,null,null
+202105,RS PONDOK INDAH,TANGERANG,0,0
+202105,RS PONDOK INDAH,BEKASI,null,null
+202105,RSUD BUDHI ASIH,JAKARTA,null,null
+202105,RSUD BUDHI ASIH,BOGOR,56,1035
+202105,RSUD BUDHI ASIH,DEPOK,null,null
+202105,RSUD BUDHI ASIH,TANGERANG,null,null
+202105,RSUD BUDHI ASIH,BEKASI,19,298
+202105,R S C M,JAKARTA,83,4610
+202105,R S C M,BOGOR,72,3429
+202105,R S C M,DEPOK,52,3002
+202105,R S C M,TANGERANG,66,1797
+202105,R S C M,BEKASI,81,5730
+202105,P M I,JAKARTA,0,0
+202105,P M I,BOGOR,null,null
+202105,P M I,DEPOK,29,895
+202105,P M I,TANGERANG,null,null
+202105,P M I,BEKASI,28,595
+202105,RSUD JATI PADANG,JAKARTA,93,893
+202105,PUSKESMAS MAMPANG PRAPATAN,JAKARTA,null,null
+202105,PUSKESMAS PANCORAN,JAKARTA,null,null
+202105,PUSKESMAS CILANDAK,JAKARTA,null,null
+202105,PUSKESMAS TEBET,JAKARTA,null,null
+202105,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202105,PUSKESMAS KEBAYORAN BARU,JAKARTA,null,null
+202105,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202105,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202105,RSUP PERSAHABATAN,JAKARTA,22,428
+202105,RSUP PERSAHABATAN,BOGOR,25,535
+202105,RSUP PERSAHABATAN,DEPOK,17,408
+202105,RSUP PERSAHABATAN,TANGERANG,null,null
+202105,RSUP PERSAHABATAN,BEKASI,43,1582
+202105,RS JANTUNG HARAPAN KITA,JAKARTA,24,883
+202105,RS JANTUNG HARAPAN KITA,BOGOR,28,986
+202105,RS JANTUNG HARAPAN KITA,TANGERANG,null,null
+202105,RS JANTUNG HARAPAN KITA,BEKASI,17,772
+202105,RSPI SULIANTI SAROSO,JAKARTA,91,3252
+202105,RSUP FATMAWATI,JAKARTA,31,2100
+202105,RS KANKER DHARMAIS,JAKARTA,31,1152
+202105,Puskesmas Koja,RS Wisma Atlet,1,13
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202105,Puskesmas Cipayung,RS Wisma Atlet,1,13
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,11
+202105,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202105,Puskesmas Pulo Gadung,RS Wisma Atlet,1,8
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,6
+202105,Puskesmas Pulo Gadung,RS Wisma Atlet,1,10
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,6
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202105,Puskesmas Tebet,RS Wisma Atlet,1,8
+202105,Puskesmas Cilincing,RS Wisma Atlet,1,9
+202105,Puskesmas Kramat Jati,RS Wisma Atlet,1,7
+202105,Puskesmas Cipayung,RS Wisma Atlet,1,12
+202105,Puskesmas Cipayung Tahap II,RS Wisma Atlet,1,6
+202105,Puskesmas Cipayung,RS Wisma Atlet,1,17
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202105,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202105,Puskesmas Cilandak,RS Wisma Atlet,1,8
+202105,Puskesmas Gambir,RS Wisma Atlet,1,13
+202105,Puskesmas Cipayung,RS Wisma Atlet,1,48
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202105,Puskesmas Pasar Minggu,RS Wisma Atlet,1,7
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,5
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,22
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,14
+202105,Puskesmas Cipayung,RS Wisma Atlet,1,21
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202105,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,8
+202105,Puskesmas Cilandak,RS Wisma Atlet,1,7
+202105,Puskesmas Penjaringan,RS Wisma Atlet,1,7
+202105,Puskesmas Duren Sawit,RS Wisma Atlet,1,16
+202105,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202105,Puskesmas Pasar Rebo,RS Wisma Atlet,1,12
+202105,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202105,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202105,Puskesmas Kembangan,RS Wisma Atlet,1,9
+202105,Puskesmas Cipayung,RS Wisma Atlet,1,30
+202105,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,14
+202106,Puskesmas Cengkareng,RS Wisma Atlet,1,14
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,34
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,27
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,5
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,11
+202106,Puskesmas Palmerah ,RS Wisma Atlet,1,22
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,15
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,8
+202106,Puskesmas Matraman,RS Wisma Atlet,1,11
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,12
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Tebet,RS Wisma Atlet,1,11
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,28
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,14
+202106,Puskesmas Matraman,RS Wisma Atlet,1,11
+202106,Puskesmas Matraman (II),RS Wisma Atlet,1,6
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,22
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,14
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,6
+202106,Puskesmas Kebayoran Lama (II),RS Wisma Atlet,1,8
+202106,Puskesmas Jagakarsa,RS Wisma Atlet,1,26
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,54
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,17
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,19
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,6
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,13
+202106,Puskesmas Koja,RS Wisma Atlet,1,10
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,31
+202106,Puskesmas Matraman,RS Wisma Atlet,1,8
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,20
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,13
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,19
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9
+202106,Puskesmas Kebayoran Lama (II),RS Wisma Atlet,1,7
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,8
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,10
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,14
+202106,Puskesmas Cakung,RS Wisma Atlet,1,15
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,23
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,7
+202106,Puskesmas Senen,RS Wisma Atlet,1,13
+202106,Psukesmas Setiabudi (2),RS Wisma Atlet,1,14
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,5
+202106,Puskesmas Sawah Besar,RS Wisma Atlet,1,11
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,13
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,14
+202106,Puskesmas Pasar Minggu (2),RS Wisma Atlet,1,12
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,12
+202106,RS KKO Cilandak,RS Wisma Atlet,1,15
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202106,Puskesmas Koja,RS Wisma Atlet,1,13
+202106,Puskesmas Koja (2),RS Wisma Atlet,1,29
+202106,RS KKO Cilandak,RS Wisma Atlet,1,8
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,15
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,25
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,17
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,8
+202106,Puskesmas Matraman,RS Wisma Atlet,1,13
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,12
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,20
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,17
+202106,Puskesmas Makasar,RS Wisma Atlet,1,7
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,11
+202106,Puskesmas Koja,RS Wisma Atlet,1,9
+202106,Puskesmas Koja (2),RS Wisma Atlet,1,6
+202106,Puskesmas Palmerah ,RS Wisma Atlet,1,13
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,7
+202106,Puskesmas Kebon Jeruk,RS Wisma Atlet,1,8
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,11
+202106,Puskesmas Tebet,RS Wisma Atlet,1,10
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202106,Puskesmas Senen,RS Wisma Atlet,1,20
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,10
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,13
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,17
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,8
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+202107,RSUD CENGKARENG,JAKARTA,118,6732
+202107,RSUD CENGKARENG,DEPOK,31,886
+202107,RSUD CENGKARENG,TANGERANG,85,1756
+202107,RSUD CENGKARENG,BEKASI,31,519
+202107,RSUD DUREN SAWIT,JAKARTA,62,1142
+202107,RSUD PASAR MINGGU,JAKARTA,31,1247
+202107,RSUD TARAKAN,JAKARTA,47,4909
+202107,RSUD TARAKAN,BOGOR,31,2144
+202107,RSUD TARAKAN,DEPOK,31,1550
+202107,RSUD TARAKAN,TANGERANG,31,1798
+202107,RSUD TARAKAN,BEKASI,60,2273
+202107,RSUD PASAR REBO,BOGOR,28,719
+202107,RSUD PASAR REBO,DEPOK,29,346
+202107,RSUD PASAR REBO,BEKASI,31,671
+202107,RSUD KOJA,JAKARTA,83,3469
+202107,RSUD KOJA,BEKASI,94,1966
+202107,RS PONDOK INDAH,JAKARTA,31,1340
+202107,RS PONDOK INDAH,BOGOR,31,1788
+202107,RSUD BUDHI ASIH,JAKARTA,65,1187
+202107,RSUD BUDHI ASIH,BOGOR,22,359
+202107,R S C M,JAKARTA,62,3046
+202107,R S C M,BOGOR,69,3343
+202107,R S C M,DEPOK,47,3266
+202107,R S C M,TANGERANG,67,2097
+202107,R S C M,BEKASI,75,5408
+202107,P M I,DEPOK,26,602
+202107,P M I,BEKASI,25,448
+202107,RSUD JATI PADANG,JAKARTA,93,2658
+202107,PUSKESMAS MAMPANG PRAPATAN,JAKARTA,null,null
+202107,PUSKESMAS PANCORAN,JAKARTA,null,null
+202107,PUSKESMAS CILANDAK,JAKARTA,null,null
+202107,PUSKESMAS TEBET,JAKARTA,null,null
+202107,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202107,PUSKESMAS KEBAYORAN BARU,JAKARTA,null,null
+202107,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202107,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202107,RSUP PERSAHABATAN,JAKARTA,21,301
+202107,RSUP PERSAHABATAN,BOGOR,42,658
+202107,RSUP PERSAHABATAN,DEPOK,21,434
+202107,RSUP PERSAHABATAN,BEKASI,39,1204
+202107,RS JANTUNG HARAPAN KITA,JAKARTA,44,1406
+202107,RS JANTUNG HARAPAN KITA,BOGOR,31,1241
+202107,RS JANTUNG HARAPAN KITA,BEKASI,21,743
+202107,RSPI SULIANTI SAROSO,JAKARTA,91,3937
+202107,RSUP FATMAWATI,JAKARTA,26,842
+202107,RS KANKER DHARMAIS,JAKARTA,45,1701
+202107,RS UKI CAWANG,BOGOR,1,8
+202107,Puskesmas Tebet,RS Wisma Atlet,1,3
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,19
+202107,Puskesmas Koja,RS Wisma Atlet,1,12
+202107,Puskesmas Cipayung ,RS Wisma Atlet,1,19
+202107,Puskesmas Cakung,RS Wisma Atlet,1,10
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,10
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202107,Puskesmas Setiabudi,RS Wisma Atlet,1,12
+202107,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,10
+202107,Puskesmas Setia Budi,RS Wisma Atlet,1,8
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202107,Puskesmas Palmerah,RS Wisma Atlet,1,18
+202107,RS Marinir Cilandak Tahap II,RS Wisma Atlet,1,7
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,7
+202107,Puskesmas Sawah Besar,RS Wisma Atlet,1,14
+202107,Puskesmas Tebet Tahap II,RS Wisma Atlet,1,8
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,14
+202107,Puskesmas Cakung,RS Wisma Atlet,1,8
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,29
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,7
+202107,Puskesmas Kemayoran Tahap II,RS Wisma Atlet,1,15
+202107,Puskesmas Kemayoran Tahap III,RS Wisma Atlet,1,15
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,10
+202107,Puskesmas Koja,RS Wisma Atlet,1,7
+202107,Puskesmas Matraman,RS Wisma Atlet,1,14
+202107,Puskesmas Koja,RS Wisma Atlet,1,9
+202107,Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+202107,Puskesmas Cipayung ,RS Wisma Atlet,1,4
+202107,Puskesmas Setia Budi,RS Wisma Atlet,1,13
+202107,Puskesmas Tebet,RS Wisma Atlet,1,20
+202107,Puskesmas Cipayung Tahap II,RS Wisma Atlet,1,12
+202107,Puskesmas Pademangan,RS Wisma Atlet,1,4
+202107,Puskesmas Makasar,RS Wisma Atlet,1,4
+202107,Puskesmas pancoran,RS Wisma Atlet,1,7
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,12
+202107,Puskesmas Jatinegara,RS Wisma Atlet,1,16
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,14
+202107,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,13
+202107,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202107,Puskesmas Sawah Besar,RS Wisma Atlet,1,20
+202107,Puskesmas Senen,RS Wisma Atlet,1,12
+202107,Puskesmas Cilandak,RS Wisma Atlet,1,7
+202107,Puskesmas tebet,RS Wisma Atlet,1,5
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,14
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,11
+202107,Puskesmas palmerah,RS Wisma Atlet,1,26
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,6
+202107,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,33
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,5
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,3
+202107,RSCM,RS Wisma Atlet,1,8
+202107,Puskesmas Tebet Tahap II,RS Wisma Atlet,1,13
+202107,Puskesmas Kelapa Gading,RS Wisma Atlet,1,7
+202107,Puskesmas Menteng,RS Wisma Atlet,1,10
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,26
+202107,RS Marinir Cilandak Tahap I,RS Wisma Atlet,1,17
+202107,Puskesmas Kramat Jati,RS Wisma Atlet,1,11
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,18
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,15
+202107,Puskesmas Johar Baru,RS Wisma Atlet,1,13
+202107,Puskesmas Matraman,RS Wisma Atlet,1,15
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,6
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,29
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,14
+202107,RS Marinir Cilandak Tahap II,RS Wisma Atlet,1,10
+202107,Puskesmas Cipayung Tahap I,RS Wisma Atlet,1,7
+202107,Puskesmas Cipayung Tahap II,RS Wisma Atlet,1,6
+202107,Puskesmas Pademangan,RS Wisma Atlet,1,11
+202107,Puskesmas Tebet,RS Wisma Atlet,1,19
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,10
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,8
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,36
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202107,Puskesmas Matraman,RS Wisma Atlet,1,10
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,6
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,20
+202106,Puskesmas Koja,RS Wisma Atlet,1,24
+202106,RS KKO Cilandak,RS Wisma Atlet,1,20
+202106,Puskesmas Menteng,RS Wisma Atlet,1,12
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,28
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,34
+202106,Puskesmas Ciracas (II),RS Wisma Atlet,1,43
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,11
+202106,PUSkesmas Cilincing,RS Wisma Atlet,1,8
+202106,Puskesmas Ciracas (III),RS Wisma Atlet,1,41
+202106,Puskesmas Kemayoran (II),RS Wisma Atlet,1,35
+202106,Puskesmas Cakung,RS Wisma Atlet,1,26
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,8
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,14
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,7
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202106,Puskesmas Jagakarsa,RS Wisma Atlet,1,17
+202106,Puskesmas Tanjung Priuk,RS Wisma Atlet,1,10
+202106,Puskesmas Tebet,RS Wisma Atlet,1,19
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,17
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,37
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,26
+202106,Puskesmas Koja,RS Wisma Atlet,1,26
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,23
+202106,Puskesmas Makasar,RS Wisma Atlet,1,17
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,8
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,11
+202106,Puskesmas Setiabudi (II),RS Wisma Atlet,1,15
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,13
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,20
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202106,Puskesmas Kebon Jeruk,RS Wisma Atlet,1,13
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,30
+202106,Puskesmas Tanjung Priuk (II),RS Wisma Atlet,1,6
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,7
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,23
+202106,Puskesmas Makasar (II),RS Wisma Atlet,1,9
+202106,Puskesmas Tanjung Priuk (II),RS Wisma Atlet,1,22
+202106,RS KKO Cilandak,RS Wisma Atlet,1,19
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202106,RS KKO Cilandak,RS Wisma Atlet,1,10
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,9
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,20
+202106,Puskesmas Menteng,RS Wisma Atlet,1,10
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,13
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,10
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,10
+202106,RS KKO Cilandak,RS Wisma Atlet,1,9
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,9
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,12
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,7
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,8
+202106,Puskesmas Ciracas (II),RS Wisma Atlet,1,10
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202106,Puskesmas Koja,RS Wisma Atlet,1,12
+202106,Puskesmas Tebet,RS Wisma Atlet,1,7
+202106,Puskesmas Ciracas (III),RS Wisma Atlet,1,10
+202106,Puskesmas Koja (II),RS Wisma Atlet,1,11
+202106,Puskesmas Koja (III),RS Wisma Atlet,1,12
+202106,Puskesmas Ciracas (4),RS Wisma Atlet,1,10
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202106,Puskesmas Cakung,RS Wisma Atlet,1,12
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,27
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,10
+202106,Puskesmas Makasar,RS Wisma Atlet,1,27
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202106,Puskesmas Kemayoran (II),RS Wisma Atlet,1,10
+202106,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,9
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,11
+202106,Puskesmas Pasar Minggu  (II),RS Wisma Atlet,1,10
+202106,Puskesmas Cempaka Putih (II),RS Wisma Atlet,1,10
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,29
+202106,Puskesmas Menteng,RS Wisma Atlet,1,10
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Tanjung Priuk,RS Wisma Atlet,1,11
+202106,Puskesmas Cakung,RS Wisma Atlet,1,10
+202106,Puskesmas Cilincing (II),RS Wisma Atlet,1,10
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,10
+202106,Puskesmas Kemayoran (III),RS Wisma Atlet,1,10
+202106,Puskesmas Kelapa Gading (II),RS Wisma Atlet,1,22
+202106,Puskesmas Duren Sawit (II),RS Wisma Atlet,1,10
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,29
+202106,Puskesmas Kemayoran (4),RS Wisma Atlet,1,11
+202106,Puskesmas Makasar,RS Wisma Atlet,1,20
+202106,Puskesmas Cempaka Putih (3),RS Wisma Atlet,1,10
+202106,Puskesmas Cempaka Putih (4),RS Wisma Atlet,1,6
+202106,Puskesmas Tanjung Priuk,RS Wisma Atlet,1,10
+202106,Puskesmas Koja,RS Wisma Atlet,1,8
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202106,Puskesmas Matraman,RS Wisma Atlet,1,19
+202106,Puskesmas Koja (2),RS Wisma Atlet,1,14
+202106,Puskesmas Tebet,RS Wisma Atlet,1,16
+202106,Puskesmas Palmerah ,RS Wisma Atlet,1,12
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,7
+202106,Puskesmas Kemayoran ,RS Wisma Atlet,1,15
+202106,Puskesmas Koja (3),RS Wisma Atlet,1,5
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,8
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,29
+202106,Puskesmas Kembangan ,RS Wisma Atlet,1,6
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,11
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,7
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202106,Fave Hotel Cideng,RS Wisma Atlet,1,13
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,23
+202106,Puskesmas Kemayoran (2),RS Wisma Atlet,1,13
+202106,Puskesmas Menteng,RS Wisma Atlet,1,10
+202106,Puskesmas Kemayoran (3),RS Wisma Atlet,1,9
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,9
+202106,Puskesmas Tebet,RS Wisma Atlet,1,16
+202106,Psukesmas Koja,RS Wisma Atlet,1,5
+202106,Puskesmas Koja (2),RS Wisma Atlet,1,14
+202106,Fave Hotel Cideng,RS Wisma Atlet,1,20
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,17
+202106,Puskesmas Koja (3),RS Wisma Atlet,1,8
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,10
+202106,RS KKO Cilandak,RS Wisma Atlet,1,31
+202106,Puskesmas Tebet (2),RS Wisma Atlet,1,21
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,12
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,9
+202106,Puskesmas Kemayoran (2),RS Wisma Atlet,1,10
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,10
+202106,Puskesmas Makasar,RS Wisma Atlet,1,12
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,13
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,19
+202106,Puskesmas Kemayoran (3),RS Wisma Atlet,1,10
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,20
+202106,Puskesmas Tebet,RS Wisma Atlet,1,12
+202106,Puskesmas Makasar,RS Wisma Atlet,1,15
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,10
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,8
+202106,Puskesmas Kembangan,RS Wisma Atlet,1,5
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,14
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,14
+202106,Puskesmas Senen,RS Wisma Atlet,1,12
+202106,RS KKO Cilandak,RS Wisma Atlet,1,26
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,7
+202106,Puskesmas Koja,RS Wisma Atlet,1,5
+202106,Puskesmas Koja (2),RS Wisma Atlet,1,22
+202106,Puskesmas Tebet,RS Wisma Atlet,1,12
+202106,Puskesmas Cakung,RS Wisma Atlet,1,10
+202106,Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,33
+202106,RS KKO Cilandak,RS Wisma Atlet,1,22
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,53
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,5
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,11
+202106,Puskesmas Menteng,RS Wisma Atlet,1,10
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,11
+202106,Puskesmas Jatinegara,RS Wisma Atlet,1,9
+202106,Puskesmas Palmerah ,RS Wisma Atlet,1,14
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,60
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,6
+202106,Puskesmas Tebet (2),RS Wisma Atlet,1,8
+202106,Puskesmas Kembangan ,RS Wisma Atlet,1,6
+202106,Puskesmas Tanjung Priuk ,RS Wisma Atlet,1,28
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,24
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,20
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Kelapa Gading(2),RS Wisma Atlet,1,8
+202106,Fave Hotel Cideng,RS Wisma Atlet,1,35
+202106,Puskesmas Makasar,RS Wisma Atlet,1,43
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,32
+202106,Puskesmas Koja,RS Wisma Atlet,1,6
+202106,Puskesmas Koja(2),RS Wisma Atlet,1,10
+202106,Puskesmas Tebet,RS Wisma Atlet,1,13
+202106,Puskesmas Matraman,RS Wisma Atlet,1,9
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202106,Puskesmas Kebayoran Lama,RS Wisma Atlet,1,8
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,6
+202106,RS KKO Cilandak,RS Wisma Atlet,1,13
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202106,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202106,RS KKO Cilandak,RS Wisma Atlet,1,8
+202106,Puskesmas Cilandak,RS Wisma Atlet,1,8
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,24
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,7
+202106,Puskesmas Pancoran(2),RS Wisma Atlet,1,6
+202106,Puskesmas Tebet,RS Wisma Atlet,1,48
+202106,Puskesmas Tebet (2),RS Wisma Atlet,1,5
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,11
+202106,Puskesmas Matraman,RS Wisma Atlet,1,15
+202106,Puskesmas Kelapa Gading,RS Wisma Atlet,1,14
+202106,Puskesmas Menteng,RS Wisma Atlet,1,10
+202106,Puskesmas Kebon Jeruk,RS Wisma Atlet,1,20
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,22
+202106,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202106,Puskesmas Cempaka Putih,RS Wisma Atlet,1,7
+202106,Puskesmas Kramat Jati,RS Wisma Atlet,1,10
+202106,Puskesmas Kebon Jeruk (2),RS Wisma Atlet,1,16
+202106,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202106,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,10
+202106,Puskesmas Cilincing,RS Wisma Atlet,1,14
+202106,Puskesmas Pasar Minggu (2),RS Wisma Atlet,1,10
+202106,Puskesmas Sawah Besar,RS Wisma Atlet,1,11
+202106,Puskesmas Kemayoran (2),RS Wisma Atlet,1,11
+202106,Puskesmas Setiabudi (2),RS Wisma Atlet,1,11
+202106,Puskesmas Pulogadung,RS Wisma Atlet,1,13
+202106,Puskesmas Penjaringan,RS Wisma Atlet,1,14
+202106,Puskesmas Palmerah ,RS Wisma Atlet,1,14
+202106,Puskesmas Kelapa Gading(2),RS Wisma Atlet,1,5
+202106,Puskesmas Tanjung Priuk,RS Wisma Atlet,1,9
+202106,RS KKO Cilandak,RS Wisma Atlet,1,15
+202106,Puskesmas Menteng,RS Wisma Atlet,1,6
+202106,Puskesmas Tanah Abang (2),RS Wisma Atlet,1,12
+202106,Puskesmas Koja,RS Wisma Atlet,1,8
+202106,Puskesmas Koja (2),RS Wisma Atlet,1,24
+202106,Puskesmas Pademangan,RS Wisma Atlet,1,12
+202106,Puskesmas Kemayoran,RS Wisma Atlet,1,9
+202106,Puskesmas Kemayoran (2),RS Wisma Atlet,1,10
+202106,Puskesmas Tebet,RS Wisma Atlet,1,10
+202106,Puskesmas Menteng,RS Wisma Atlet,1,10
+202106,Puskesmas Setiabudi,RS Wisma Atlet,1,22
+202106,Puskesmas Cipayung,RS Wisma Atlet,1,10
+202106,Puskesmas Makasar,RS Wisma Atlet,1,14
+202107,Puskesmas Makasar,RS Wisma Atlet,1,14
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,18
+202107,Puskesmas Kelapa Gading Tahap I,RS Wisma Atlet,1,10
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,8
+202107,Puskesmas Palmerah,RS Wisma Atlet,1,11
+202107,Puskesmas Kelapa Gading Tahap II,RS Wisma Atlet,1,11
+202107,Puskesmas Menteng,RS Wisma Atlet,1,4
+202107,Puskesmas Kramat Jati,RS Wisma Atlet,1,4
+202107,Puskesmas Tebet,RS Wisma Atlet,1,8
+202107,Puskesmas Koja,RS Wisma Atlet,1,3
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,10
+202107,Puskesmas Matraman,RS Wisma Atlet,1,14
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,6
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,26
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,7
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,12
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202107,Puskesmas Jagakarsa,RS Wisma Atlet,1,5
+202107,Puskesmas Palmerah,RS Wisma Atlet,1,16
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,13
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,10
+202107,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,8
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,8
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,12
+202107,Puskesmas Tebet,RS Wisma Atlet,1,26
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,9
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,9
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,6
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,7
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202107,Puskesmas Menteng,RS Wisma Atlet,1,7
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,7
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,9
+202107,Puskesmas Makasar,RS Wisma Atlet,1,10
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,6
+202107,Puskesmas Cempaka Putih,RS Wisma Atlet,1,18
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,5
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,13
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,17
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,21
+202107,Puskesmas Gambir,RS Wisma Atlet,1,10
+202107,Puskesmas Senen,RS Wisma Atlet,1,11
+202107,Puskesmas Sawah Besar,RS Wisma Atlet,1,13
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+202107,Puskesmas Johar Baru,RS Wisma Atlet,1,8
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,14
+202107,Puskesmas Tebet,RS Wisma Atlet,1,14
+202107,Puskesmas Menteng,RS Wisma Atlet,1,15
+202107,Puskesmas Tanjung Priok Tahap I,RS Wisma Atlet,1,15
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,13
+202107,Puskesmas Cilincing Tahap I,RS Wisma Atlet,1,11
+202107,Puskesmas Cilincing Tahap II,RS Wisma Atlet,1,19
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,13
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,6
+202107,RS Marinir Cilandak Tahap II,RS Wisma Atlet,1,18
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202107,Puskesmas Setia Budi,RS Wisma Atlet,1,20
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+202107,Puskesmas Kel. Ciganjur,RS Wisma Atlet,1,20
+202107,Puskesmas Koja,RS Wisma Atlet,1,13
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202107,Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,19
+202107,Puskesmas Tanjung Priok,RS Wisma Atlet,1,8
+202107,Panti Hafidhin Royan Ciganjur,RS Wisma Atlet,1,11
+202107,Puskesmas Setia Budi,RS Wisma Atlet,1,9
+202107,Puskesmas Koja,RS Wisma Atlet,1,9
+202107,Puskesmas  Duren Sawit,RS Wisma Atlet,1,13
+202107,Puskesmas Matraman,RS Wisma Atlet,1,8
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,22
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202107,Puskesmas Tanjung Priok,RS Wisma Atlet,1,12
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202107,Rusun Nagrak,RS Wisma Atlet,1,34
+202107,Puskesmas Koja,RS Wisma Atlet,1,8
+202107,Puskesmas Matraman,RS Wisma Atlet,1,12
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,17
+202107,Puskesmas Tebet,RS Wisma Atlet,1,9
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,26
+202107,Puskesmas Menteng,RS Wisma Atlet,1,9
+202107,Puskesmas kemayoran,RS Wisma Atlet,1,12
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,12
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+202107,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202107,Puskesmas Tanjung Priok,RS Wisma Atlet,1,15
+202107,Puskesmas Palmerah,RS Wisma Atlet,1,10
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,15
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,19
+202107,Puskesmas Palmerah,RS Wisma Atlet,1,12
+202107,Puskesmas Tebet,RS Wisma Atlet,1,18
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,8
+202107,Puskesmas Makasar,RS Wisma Atlet,1,9
+202107,Puskesmas Koja,RS Wisma Atlet,1,10
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202107,Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+202107,Puskesmas Tebet,RS Wisma Atlet,1,16
+202107,Rusun Nagrak,RS Wisma Atlet,1,18
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,12
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,8
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,15
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202107,RS Marinir Cilandak ,RS Wisma Atlet,1,8
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,18
+202107,UPAS - CIRACAS,RS Wisma Atlet,1,1
+202107,UPAS - CILINCING,RS Wisma Atlet,1,1
+202107,UPAS - MAKASAR,RS Wisma Atlet,1,1
+202107,Puskesmas Tebet,RS Wisma Atlet,1,7
+202107,Puskesmas Koja,RS Wisma Atlet,1,10
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,14
+202107,Puskesmas Cakung,RS Wisma Atlet,1,9
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,8
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,11
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,19
+202107,Puskesmas Koja,RS Wisma Atlet,1,8
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,6
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,29
+202107,CILINCING,Sentra Vaksinasi terdekat dari lokasi penjemputan,15,1142
+202107,KELAPA GADING,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,KOJA,Sentra Vaksinasi terdekat dari lokasi penjemputan,11,219
+202107,PADEMANGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,6,104
+202107,PENJARINGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,8,336
+202107,TANJUNG PRIOK,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,CAKUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,36,751
+202107,CIPAYUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,10,212
+202107,CIRACAS,Sentra Vaksinasi terdekat dari lokasi penjemputan,19,289
+202107,DUREN SAWIT,Sentra Vaksinasi terdekat dari lokasi penjemputan,9,142
+202107,JATINEGARA,Sentra Vaksinasi terdekat dari lokasi penjemputan,18,389
+202107,KRAMAT JATI,Sentra Vaksinasi terdekat dari lokasi penjemputan,18,292
+202107,MAKASAR,Sentra Vaksinasi terdekat dari lokasi penjemputan,3,63
+202107,MATRAMAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,2,10
+202107,PASAR REBO,Sentra Vaksinasi terdekat dari lokasi penjemputan,6,45
+202107,PULO GADUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,19,411
+202107,CEMPAKA PUTIH,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,GAMBIR,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,JOHAR BARU,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,KEMAYORAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,27,226
+202107,MENTENG,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,SAWAH BESAR,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,SENEN,Sentra Vaksinasi terdekat dari lokasi penjemputan,7,44
+202107,TANAH ABANG,Sentra Vaksinasi terdekat dari lokasi penjemputan,18,667
+202107,CILANDAK,Sentra Vaksinasi terdekat dari lokasi penjemputan,7,107
+202107,JAGAKARSA,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,KEBAYORAN BARU,Sentra Vaksinasi terdekat dari lokasi penjemputan,25,658
+202107,KEBAYORAN LAMA,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,18
+202107,MAMPANG PRAPATAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,6,106
+202107,PANCORAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,36,906
+202107,PASAR MINGGU,Sentra Vaksinasi terdekat dari lokasi penjemputan,5,126
+202107,PESANGGRAHAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,SETIABUDI,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,TEBET,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,CENGKARENG,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,GROGOL PETAMBURAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,4,84
+202107,KALIDERES,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,KEBON JERUK,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,KEMBANGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,PALMERAH,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,TAMAN SARI,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,TAMBORA,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202107,SETU,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,22
+202108,RSUD CENGKARENG,JAKARTA,116,6762
+202108,RSUD CENGKARENG,BOGOR,null,null
+202108,RSUD CENGKARENG,DEPOK,30,752
+202108,RSUD CENGKARENG,TANGERANG,81,1661
+202108,RSUD CENGKARENG,BEKASI,29,614
+202108,RSUD DUREN SAWIT,JAKARTA,62,1032
+202108,RSUD DUREN SAWIT,BOGOR,null,null
+202108,RSUD DUREN SAWIT,DEPOK,null,null
+202108,RSUD DUREN SAWIT,TANGERANG,null,null
+202108,RSUD DUREN SAWIT,BEKASI,null,null
+202108,RSUD PASAR MINGGU,JAKARTA,31,1421
+202108,RSUD PASAR MINGGU,BOGOR,0,0
+202108,RSUD PASAR MINGGU,DEPOK,0,0
+202108,RSUD PASAR MINGGU,TANGERANG,null,null
+202108,RSUD PASAR MINGGU,BEKASI,0,0
+202108,RSUD TARAKAN,JAKARTA,61,5362
+202108,RSUD TARAKAN,BOGOR,31,1788
+202108,RSUD TARAKAN,DEPOK,31,1463
+202108,RSUD TARAKAN,TANGERANG,31,1876
+202108,RSUD TARAKAN,BEKASI,62,2201
+202108,RSUD PASAR REBO,JAKARTA,null,null
+202108,RSUD PASAR REBO,BOGOR,31,851
+202108,RSUD PASAR REBO,DEPOK,26,343
+202108,RSUD PASAR REBO,TANGERANG,null,null
+202108,RSUD PASAR REBO,BEKASI,31,785
+202108,RSUD KOJA,JAKARTA,84,4067
+202108,RSUD KOJA,BOGOR,null,null
+202108,RSUD KOJA,DEPOK,null,null
+202108,RSUD KOJA,TANGERANG,null,null
+202108,RSUD KOJA,BEKASI,95,2032
+202108,RS PONDOK INDAH,JAKARTA,31,1235
+202108,RS PONDOK INDAH,BOGOR,31,1791
+202108,RS PONDOK INDAH,DEPOK,null,null
+202108,RS PONDOK INDAH,TANGERANG,0,0
+202108,RS PONDOK INDAH,BEKASI,null,null
+202108,RSUD BUDHI ASIH,JAKARTA,null,null
+202108,RSUD BUDHI ASIH,BOGOR,60,1176
+202108,RSUD BUDHI ASIH,DEPOK,null,null
+202108,RSUD BUDHI ASIH,TANGERANG,null,null
+202108,RSUD BUDHI ASIH,BEKASI,21,344
+202108,R S C M,JAKARTA,60,3345
+202108,R S C M,BOGOR,51,2647
+202108,R S C M,DEPOK,46,3338
+202108,R S C M,TANGERANG,51,2054
+202108,R S C M,BEKASI,77,5549
+202108,P M I,JAKARTA,0,0
+202108,P M I,BOGOR,null,null
+202108,P M I,DEPOK,29,793
+202108,P M I,TANGERANG,null,null
+202108,P M I,BEKASI,26,429
+202108,RSUD JATI PADANG,JAKARTA,93,3095
+202108,PUSKESMAS MAMPANG PRAPATAN,JAKARTA,null,null
+202108,PUSKESMAS PANCORAN,JAKARTA,null,null
+202108,PUSKESMAS CILANDAK,JAKARTA,null,null
+202108,PUSKESMAS TEBET,JAKARTA,null,null
+202108,PUSKESMAS KUNINGAN  BARAT,JAKARTA,null,null
+202108,PUSKESMAS KEBAYORAN BARU,JAKARTA,null,null
+202108,PUSKESMAS KEBAYORAN LAMA,JAKARTA,null,null
+202108,SUDINKES JAKARTA SELATAN,JAKARTA,null,null
+202108,RSUP PERSAHABATAN,JAKARTA,20,350
+202108,RSUP PERSAHABATAN,BOGOR,40,687
+202108,RSUP PERSAHABATAN,DEPOK,20,494
+202108,RSUP PERSAHABATAN,TANGERANG,null,null
+202108,RSUP PERSAHABATAN,BEKASI,40,1509
+202108,RS JANTUNG HARAPAN KITA,JAKARTA,51,1361
+202108,RS JANTUNG HARAPAN KITA,BOGOR,30,1344
+202108,RS JANTUNG HARAPAN KITA,TANGERANG,0,0
+202108,RS JANTUNG HARAPAN KITA,BEKASI,27,954
+202108,RSPI SULIANTI SAROSO,JAKARTA,93,3855
+202108,RSUP FATMAWATI,JAKARTA,31,1270
+202108,RS KANKER DHARMAIS,JAKARTA,43,1397
+202108,RS UKI CAWANG,BEKASI,19,317
+202108,RS UKI CAWANG,BOGOR,24,415
+202108,Puskesmas Kemayoran,RS Wisma Atlet,1,10
+202108,Puskesmas Kemayoran,RS Wisma Atlet,1,6
+202108,RS Marinir Cilandak,RS Wisma Atlet,1,20
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,6
+202108,RS Marinir Cilandak,RS Wisma Atlet,1,6
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,13
+202108,Puskesmas Makasar (UPAS),RS Wisma Atlet,1,1
+202108,RS Marinir Cilandak,RS Wisma Atlet,1,12
+202108,Puskesmas Tanjung Priok,RS Wisma Atlet,1,16
+202108,Puskesmas Kemayoran,RS Wisma Atlet,1,5
+202108,RS Marinir Cilandak,RS Wisma Atlet,1,10
+202108,Puskesmas Makasar (UPAS),RS Wisma Atlet,1,2
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202108,Puskesmas Makasar (UPAS),RS Wisma Atlet,1,1
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,40
+202108,Puskesmas kemayoran,RS Wisma Atlet,1,11
+202108,Puskesmas Makasar   ,RS Wisma Atlet,1,1
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,8
+202108,Puskesmas Koja,RS Wisma Atlet,1,7
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,41
+202108,RS Marinir Cilandak,RS Wisma Atlet,1,7
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,7
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,25
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,11
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,12
+202108,RS Marinir Cilandak,RS Wisma Atlet,1,7
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202108,RS Marinir Cilandak,RS Wisma Atlet,1,8
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,9
+202108,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202108,Puskesmas Kemayoran,RS Wisma Atlet,1,11
+202108,Puskesmas Koja,RS Wisma Atlet,1,5
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,23
+202108,Puskesmas Ciracas,RS Wisma Atlet,1,11
+202108,Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+202108,Rusun Pasar Rumput,RS Wisma Atlet,1,36
+202108,CILINCING,Sentra Vaksinasi terdekat dari lokasi penjemputan,5,59
+202108,KELAPA GADING,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,KOJA,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,PADEMANGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,5,16
+202107,Puskesmas Palmerah,RS Wisma Atlet,1,15
+202107,Puskesmas Tanjung Priok Tahap II,RS Wisma Atlet,1,17
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,11
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,13
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,5
+202107,Puskesmas Matraman,RS Wisma Atlet,1,15
+202107,Puskesmas Tebet Tahap I,RS Wisma Atlet,1,14
+202107,Puskesmas Tebet Tahap II,RS Wisma Atlet,1,41
+202107,RSCM IGD Kiara,RS Wisma Atlet,1,16
+202107,Puskesmas Kelapa Gading,RS Wisma Atlet,1,14
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,10
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202107,Puskesmas Cakung,RS Wisma Atlet,1,9
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,14
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,22
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,10
+202107,Puskesmas Kramat Jati,RS Wisma Atlet,1,6
+202107,Puskesmas Tanjung Priok,RS Wisma Atlet,1,18
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,35
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,13
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,14
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,11
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,13
+202107,Puskesmas Tebet,RS Wisma Atlet,1,6
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,18
+202107,Puskesmas Matraman,RS Wisma Atlet,1,15
+202107,Puskesmas Kelapa Gading,RS Wisma Atlet,1,11
+202107,Puskesmas Jatinegara,RS Wisma Atlet,1,8
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,9
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,19
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,26
+202107,Puskesmas Senen,RS Wisma Atlet,1,10
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,14
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,12
+202107,Puskesmas Menteng,RS Wisma Atlet,1,10
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,13
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,20
+202107,Puskesmas gambir,RS Wisma Atlet,1,16
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,15
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,7
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,7
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,6
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,25
+202107,Puskesmas Tebet,RS Wisma Atlet,1,21
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,11
+202107,Puskesmas Kelapa gading,RS Wisma Atlet,1,10
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,8
+202107,Puskesmas pancoran,RS Wisma Atlet,1,11
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,25
+202107,Puskesmas Matraman,RS Wisma Atlet,1,17
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,11
+202107,Puskesmas Sawah Besar,RS Wisma Atlet,1,14
+202107,Puskesmas Menteng,RS Wisma Atlet,1,8
+202107,Puskesmas Kramat Jati,RS Wisma Atlet,1,14
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,12
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,11
+202107,Puskesmas Gambir,RS Wisma Atlet,1,13
+202107,UP. Angkutan Sekolah,RS Wisma Atlet,1,9
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,14
+202107,Puskesmas Matraman,RS Wisma Atlet,1,14
+202107,Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+202107,Puskesmas tebet,RS Wisma Atlet,1,25
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,20
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202107,Puskesmas Menteng,RS Wisma Atlet,1,7
+202107,Puskesmas Sawah Besar,RS Wisma Atlet,1,14
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,8
+202107,Puskesmas Gambir,RS Wisma Atlet,1,14
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,21
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,29
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,15
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,12
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,8
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,12
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,20
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,9
+202107,Puskesmas Makasar,RS Wisma Atlet,1,14
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,10
+202107,Puskesmas Koja Tahap I,RS Wisma Atlet,1,10
+202107,Puskesmas Koja Tahap II,RS Wisma Atlet,1,8
+202107,Puskesmas Tebet,RS Wisma Atlet,1,17
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202107,Unit Pengelola Angkutan Sekolah ,RS Wisma Atlet,1,1
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,24
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,13
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,20
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,8
+202107,Puskesmas Gambir,RS Wisma Atlet,1,8
+202107,Puskesmas Menteng,RS Wisma Atlet,1,9
+202107,Puskesmas Tanjung Priok,RS Wisma Atlet,1,10
+202107,Rusun Nagrak,RS Wisma Atlet,1,38
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,16
+202107,Puskesmas Koja,RS Wisma Atlet,1,7
+202107,Puskesmas Pulo Gebang,RS Wisma Atlet,1,9
+202107,Puskesmas Cipayung,RS Wisma Atlet,1,13
+202107,Puskesmas Tebet,RS Wisma Atlet,1,27
+202107,Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,13
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,11
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,14
+202107,Puskesmas Menteng,RS Wisma Atlet,1,11
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,9
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,16
+202107,Puskesmas Makasar,RS Wisma Atlet,1,7
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,17
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,11
+202107,Puskesmas Koja,RS Wisma Atlet,1,3
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,10
+202107,Puskesmas Tebet,RS Wisma Atlet,1,17
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,15
+202107,Puskesmas Matraman,RS Wisma Atlet,1,22
+202107,Puskesmas Makasar,RS Wisma Atlet,1,3
+202107,Puskesmas Cakung,RS Wisma Atlet,1,10
+202107,Puskesmas Senen,RS Wisma Atlet,1,21
+202107,Puskesmas Grogol Petamburan,RS Wisma Atlet,1,13
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,16
+202107,Puskesmas kemayoran,RS Wisma Atlet,1,29
+202107,Puskesmas Setia Budi,RS Wisma Atlet,1,12
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,15
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,11
+202107,Puskesmas Setia Budi Tahap II,RS Wisma Atlet,1,7
+202107,Puskesmas menteng,RS Wisma Atlet,1,5
+202107,Puskesmas Kelapa Gading,RS Wisma Atlet,1,8
+202107,Rusun Nagrak,RS Wisma Atlet,1,11
+202107,Rusun Nagrak,RS Wisma Atlet,1,9
+202107,Puskesmas Koja,RS Wisma Atlet,1,9
+202107,Puskesmas Cilandak,RS Wisma Atlet,1,12
+202107,Puskesmas Setia Budi,RS Wisma Atlet,1,24
+202107,Puskesmas tebet,RS Wisma Atlet,1,11
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,24
+202107,Puskesmas Sawah Besar,RS Wisma Atlet,1,20
+202107,PDC Pertamina Jaya,RS Wisma Atlet,1,10
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,30
+202107,Puskesmas Cakung,RS Wisma Atlet,1,10
+202107,Puskesmas Penjaringan,RS Wisma Atlet,1,8
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,21
+202107,Puskesmas Duren Sawit,RS Wisma Atlet,1,11
+202107,Puskesmas Jagakarsa,RS Wisma Atlet,1,6
+202107,Puskesmas Pulo Gadung,RS Wisma Atlet,1,11
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,11
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,21
+202107,Puskesmas Tanjung Priok,RS Wisma Atlet,1,10
+202107,Puskesmas Makasar,RS Wisma Atlet,1,9
+202107,Puskesmas Pulo Gadung Tahap II,RS Wisma Atlet,1,10
+202107,Puskesmas Kembangan,RS Wisma Atlet,1,7
+202107,Puskesmas Cakung Tahap II,RS Wisma Atlet,1,7
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,12
+202107,Puskesmas Setia Budi,RS Wisma Atlet,1,14
+202107,Puskesmas Koja,RS Wisma Atlet,1,9
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,10
+202107,Puskesmas Matraman,RS Wisma Atlet,1,16
+202107,Puskesmas Pancoran,RS Wisma Atlet,1,12
+202107,Puskesmas Palmerah,RS Wisma Atlet,1,7
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,18
+202107,Puskesmas Cakung,RS Wisma Atlet,1,8
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,25
+202107,Puskesmas Tebet,RS Wisma Atlet,1,16
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+202107,Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,5
+202107,Puskesmas Cilincing,RS Wisma Atlet,1,18
+202107,Puskesmas Gambir,RS Wisma Atlet,1,15
+202107,Puskesmas Tebet,RS Wisma Atlet,1,8
+202107,Puskesmas Makasar,RS Wisma Atlet,1,2
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,16
+202107,Puskesmas Tanah Abang,RS Wisma Atlet,1,8
+202107,Puskesmas Ciracas,RS Wisma Atlet,1,19
+202107,Puskesmas Koja,RS Wisma Atlet,1,7
+202107,Puskesmas Matraman,RS Wisma Atlet,1,22
+202107,RS Marinir Cilandak,RS Wisma Atlet,1,8
+202107,Puskesmas Kemayoran,RS Wisma Atlet,1,12
+202108,RUTE REGULER,RUTE 18 (MERUYA - CILEDUG),0,2
+202108,RUTE REGULER,RUTE 19 (BENDUNGAN HILIR - KEMANGGISAN),19,2
+202108,RUTE REGULER,RUTE 20 (KEMANGGISAN - DAAN MOGOT),6,2
+202108,RUTE ZONASI,ZONASI 1 (PD.GEDE - CONDET - RANCO),21,2
+202108,RUTE ZONASI,ZONASI 2 (KP.MELAYU - RAWAMANGUN),14,2
+202108,RUTE ZONASI,ZONASI 3 (TERMINAL KALIDERES - KAMAL),13,2
+202108,RUTE ZONASI,ZONASI 4 (KALIDERES - SEMANAN - DURI KOSAMBI),3,2
+202108,RUTE ZONASI,ZONASI 5 (PULOGADUNG - MARDANI - PASEBAN),12,2
+202108,RUTE ZONASI,ZONASI 6 (CAWANG - RAGUNAN),14,2
+202108,RUTE ZONASI,ZONASI 7 (RAWAMANGUN - MANGGARAI - CIKINI),8,2
+202108,RUTE ZONASI,ZONASI 8 (LUBANG BUAYA - DUKU.5 (JASA MARGA) - KP.RAMBUTAN - RANCO),0,2
+202108,RUTE ZONASI,ZONASI 9 (ROROTAN - MARUNDA),32,2
+202108,RUTE ZONASI,ZONASI 10 (RUSUNAWA - CILINCING),2,2
+202108,RUTE ZONASI,ZONASI 11 (RUSUN KAPUK MUARA - JEMBATAN LIMA - CIDENG),5,2
+202108,RUTE ZONASI,ZONASI 12 (RUSUN RAWABEBEK - CAKUNG TIMUR - ROROTAN),7,2
+202108,RUTE ZONASI,ZONASI 13 (CIPEDAK ? SRENGSENG SAWAH),6,2
+202108,PENJARINGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,7,132
+202108,TANJUNG PRIOK,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,0
+202108,CAKUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,42,1480
+202108,CIPAYUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,3,58
+202108,CIRACAS,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,DUREN SAWIT,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,JATINEGARA,Sentra Vaksinasi terdekat dari lokasi penjemputan,7,103
+202108,KRAMAT JATI,Sentra Vaksinasi terdekat dari lokasi penjemputan,4,96
+202108,MAKASAR,Sentra Vaksinasi terdekat dari lokasi penjemputan,10,134
+202108,MATRAMAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,13
+202108,PASAR REBO,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,PULO GADUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,4,140
+202108,CEMPAKA PUTIH,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,13
+202108,GAMBIR,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,28
+202108,JOHAR BARU,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,7
+202108,KEMAYORAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,2,46
+202108,MENTENG,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,9
+202108,SAWAH BESAR,Sentra Vaksinasi terdekat dari lokasi penjemputan,2,26
+202108,SENEN,Sentra Vaksinasi terdekat dari lokasi penjemputan,6,38
+202108,TANAH ABANG,Sentra Vaksinasi terdekat dari lokasi penjemputan,22,475
+202108,CILANDAK,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,JAGAKARSA,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,KEBAYORAN BARU,Sentra Vaksinasi terdekat dari lokasi penjemputan,9,261
+202108,KEBAYORAN LAMA,Sentra Vaksinasi terdekat dari lokasi penjemputan,30,829
+202108,MAMPANG PRAPATAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,PANCORAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,4,43
+202108,PASAR MINGGU,Sentra Vaksinasi terdekat dari lokasi penjemputan,12,218
+202108,PESANGGRAHAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,SETIABUDI,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,TEBET,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,CENGKARENG,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,GROGOL PETAMBURAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,KALIDERES,Sentra Vaksinasi terdekat dari lokasi penjemputan,3,57
+202108,KEBON JERUK,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,KEMBANGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,PALMERAH,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+202108,TAMAN SARI,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,2
+202108,TAMBORA,Sentra Vaksinasi terdekat dari lokasi penjemputan,2,37
+202108,RS Wisma Atlet (Vaksinator Nakes),CILINCING,26,332
+202108,RS Wisma Atlet (Vaksinator Nakes),KELAPA GADING,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),KOJA,26,313
+202108,RS Wisma Atlet (Vaksinator Nakes),PADEMANGAN,37,513
+202108,RS Wisma Atlet (Vaksinator Nakes),PENJARINGAN,10,154
+202108,RS Wisma Atlet (Vaksinator Nakes),TANJUNG PRIOK,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),CAKUNG,2,19
+202108,RS Wisma Atlet (Vaksinator Nakes),CIPAYUNG,34,398
+202108,RS Wisma Atlet (Vaksinator Nakes),CIRACAS,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),DUREN SAWIT,38,482
+202108,RS Wisma Atlet (Vaksinator Nakes),JATINEGARA,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),KRAMAT JATI,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),MAKASAR,2,20
+202108,RS Wisma Atlet (Vaksinator Nakes),MATRAMAN,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),PASAR REBO,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),PULO GADUNG,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),CEMPAKA PUTIH,2,10
+202108,RS Wisma Atlet (Vaksinator Nakes),GAMBIR,4,19
+202108,RS Wisma Atlet (Vaksinator Nakes),JOHAR BARU,7,35
+202108,RS Wisma Atlet (Vaksinator Nakes),KEMAYORAN,9,45
+202108,RS Wisma Atlet (Vaksinator Nakes),MENTENG,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),SAWAH BESAR,16,105
+202108,RS Wisma Atlet (Vaksinator Nakes),SENEN,2,10
+202108,RS Wisma Atlet (Vaksinator Nakes),TANAH ABANG,32,141
+202108,RS Wisma Atlet (Vaksinator Nakes),CILANDAK,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),JAGAKARSA,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),KEBAYORAN BARU,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),KEBAYORAN LAMA,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),MAMPANG PRAPATAN,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),PANCORAN,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),PASAR MINGGU,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),PESANGGRAHAN,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),SETIABUDI,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),TEBET,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),CENGKARENG,78,926
+202108,RS Wisma Atlet (Vaksinator Nakes),GROGOL PETAMBURAN,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),KALIDERES,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),KEBON JERUK,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),KEMBANGAN,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),PALMERAH,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),TAMAN SARI,0,0
+202108,RS Wisma Atlet (Vaksinator Nakes),TAMBORA,0,0
+202108,SUDIN PEMUDA & OLAHRAGA JAKARTA UTARA,HOTEL C?ONE PULOMAS,60,2
+202108,SUDIN PEMUDA & OLAHRAGA JAKARTA UTARA,KANTOR WALIKOTA JAKARTA UTARA,57,2
+202108,SUDIN PEMUDA & OLAHRAGA JAKARTA PUSAT,HOTEL YELLOW HARMONI,62,2
+202108,SUDIN PEMUDA & OLAHRAGA JAKARTA UTARA,KANTOR WALIKOTA JAKARTA UTARA,90,2
+202108,SUDIN PEMUDA & OLAHRAGA JAKARTA PUSAT,KANTOR WALIKOTA JAKARTA PUSAT,66,2
+202108,SUDIN PEMUDA & OLAHRAGA JAKARTA SELATAN,KANTOR WALIKOTA JAKARTA SELATAN,27,1
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,CILINCING,3,284
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KELAPA GADING,3,183
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KOJA,3,349
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PADEMANGAN,3,219
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PENJARINGAN,3,128
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,TANJUNG PRIOK,3,650
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,CAKUNG,3,1012
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,CIPAYUNG,3,498
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,CIRACAS,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,DUREN SAWIT,3,95
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,JATINEGARA,3,104
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KRAMAT JATI,3,622
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,MAKASAR,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,MATRAMAN,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PASAR REBO,3,394
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PULO GADUNG,3,381
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,CEMPAKA PUTIH,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,GAMBIR,3,256
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,JOHAR BARU,3,206
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KEMAYORAN,3,120
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,MENTENG,3,689
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,SAWAH BESAR,3,131
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,SENEN,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,TANAH ABANG,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,CILANDAK,3,359
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,JAGAKARSA,3,331
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KEBAYORAN BARU,3,160
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KEBAYORAN LAMA,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,MAMPANG PRAPATAN,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PANCORAN,3,386
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PASAR MINGGU,3,159
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PESANGGRAHAN,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,SETIABUDI,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,TEBET,3,130
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,CENGKARENG,3,80
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,GROGOL PETAMBURAN,3,0
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KALIDERES,3,303
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KEBON JERUK,3,528
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,KEMBANGAN,3,98
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,PALMERAH,3,559
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,TAMAN SARI,3,100
+202108,PESERTA VAKSINASI KELILING BUS SEKOLAH,TAMBORA,3,433
+202108,PASIEN COVID19 YANG SUDAH SELESAI ISOLASI DARI RUSUN NAGRAK,JAKARTA UTARA,1,39
+202108,PASIEN COVID19 YANG SUDAH SELESAI ISOLASI DARI RUSUN NAGRAK,JAKARTA TIMUR,1,13
+202108,PASIEN COVID19 YANG SUDAH SELESAI ISOLASI DARI RUSUN NAGRAK,JAKARTA PUSAT,1,12
+202108,PASIEN COVID19 YANG SUDAH SELESAI ISOLASI DARI RUSUN NAGRAK,JAKARTA SELATAN,1,7
+202108,PASIEN COVID19 YANG SUDAH SELESAI ISOLASI DARI RUSUN NAGRAK,JAKARTA BARAT,1,6
+202108,RUTE REGULER,RUTE 1 (LAP.BANTENG - GALUR - P.KEMERDEKAAN),6,2
+202108,RUTE REGULER,RUTE 2 (PLUMPANG - SUNTER - KEMAYORAN),4,2
+202108,RUTE REGULER,RUTE 3 (GANDARIA - H E K - TMII),5,2
+202108,RUTE REGULER,RUTE 4A (P.KEMERDEKAAN - PULOGADUNG - BOR - PD.KOPI),8,2
+202108,RUTE REGULER,RUTE 4B (P.KEMERDEKAAN - PULOGADUNG - PULOGEBANG - PD.KOPI),8,2
+202108,RUTE REGULER,RUTE 5 (KP.MELAYU - TMII - CEGER),5,2
+202108,RUTE REGULER,RUTE 6 (PS.MINGGU - BUNCIT - KEBAYORAN PTIK),5,2
+202108,RUTE REGULER,RUTE 7 (PS.MINGGU - RANCO - LT.AGUNG - UI),6,2
+202108,RUTE REGULER,RUTE 8 (PS.MINGGU - PANCORAN - MANGGARAI),5,2
+202108,RUTE REGULER,RUTE 9 (CILINCING - PLUMPANG - P.KEMERDEKAAN),6,2
+202108,RUTE REGULER,RUTE 10 (KP.MELAYU - LAP.BANTENG),10,2
+202108,RUTE REGULER,RUTE 11 (BLOK M - CILEDUG),26,2
+202108,RUTE REGULER,RUTE 12 (TERMINAL KALIDERES - GAJAH MADA),10,2
+202108,RUTE REGULER,RUTE 13 (PULOGADUNG - PD.BAMBU - KALI MALANG - CAWANG - PGC),2,2
+202108,RUTE REGULER,RUTE 14 (BLOK M - PD.LABU),3,2
+202108,RUTE REGULER,RUTE 15 (TEBET - CIPINANG MUARA - PD.KOPI),0,2
+202108,RUTE REGULER,RUTE 16 (RUSUN MUARA BARU PLUIT - GROGOL),0,2
+202108,RUTE REGULER,RUTE 17 (RUSUN MUARA BARU PLUIT - BANDENGAN MUARA ANGKE (KALI ADEM)),0,2
